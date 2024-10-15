@@ -1,0 +1,52 @@
+{
+    "ARRI": {
+      "Wireless Compact Unit": [
+        "WCU-4"
+      ],
+      "cforce": [
+        "cforce mini RF",
+        "cforce mini"
+      ]
+    },
+    "Chrosziel": {
+      "MagNum": [
+        "MN200",
+        "MN150"
+      ]
+    },
+    "Tilta": {
+      "Nucleus": [
+        "Nucleus-M",
+        "Nucleus-N II"
+      ]
+    },
+    "DJI": {
+      "Focus": [
+        "Focus"
+      ]
+    },
+    "Teradek": {
+      "RT": [
+        "MDR.ACI",
+        "CTRL.3"
+      ]
+    },
+    "RED": {
+      "DSMC2": [
+        "RED 3D Focus System"
+      ]
+    },
+    "Preston": {
+      "Cinema": [
+        "FI+Z 3",
+        "HU3",
+        "MDR3"
+      ]
+    },
+    "Focusbug": {
+      "Cine RT": [
+        "Rangefinder",
+        "Controller"
+      ]
+    }
+  }

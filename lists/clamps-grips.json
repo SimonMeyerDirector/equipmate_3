@@ -1,0 +1,78 @@
+{
+  "Avenger": {
+    "Clamps": [
+      "C150 C-Clamp",
+      "C337 Quick Action Clamp",
+      "C345BK Barrel Clamp 16/28mm",
+      "F100 Junior Offset Arm",
+      "F810 Baby Plate Swivel 16mm",
+      "F800 Baby Wall Plate 16mm"
+    ]
+  },
+ 
+  "Kupo": {
+    "Clamps": [
+      "KS-207 Swivel Junior Adapter 28 - 28mm TV Zapfen - Hülse",
+      "KCP-116 Schraubzwinge 250 x 100mm 16mm Zapfen",
+      "KCP-129 Schraubzwinge 250 x 100mm 28mm Hülse"
+    ]
+  },
+  "Manfrotto": {
+    "Clamps": [
+      "035 Super Clamp",
+      "038 Double Super Clamp",
+      "C281 Stage Clamp w/ stud",
+      "C285 Stage Clamp w/ stud", 
+      "C295 Stage Clamp",
+      "C296 Stage Clamp",
+      "C100 Junior Pipe Clamp",
+      "137 Swiveling C-clamp",
+      "386B Nano Clamp",
+      "Uniklemme",
+      "035 Uniklemme",
+      "014-38 Rapidadapter 16mm Hülse - 3/8\"",
+      "014-14 Rapidadapter 16mm Hülse - 1/4\"",
+      "241FB Saugnapf / 3-Wege Neiger"
+    ]
+  },
+  "Matthews": {
+    "Clamps": [
+      "420210 Matthellini Clamp 6\" End Jaw",
+      "420110 Matthellini Clamp 2\" End Jaw",
+      "420101 Matthellini Clamp 3\" Center Jaw",
+      "420113 Matthellini Extendellini",
+      "420112-S15 Mini Matthellini Clamp 2\" End Jaw",
+      "429042 Quacker Clamp",
+      "425159 Right Angle Grid Clamp",
+      "Grip Helper - Junior"
+    ]
+  },
+  "Ianiro": {
+    "Clamps": [
+      "Pelican Klammer 16mm"
+    ]
+  },
+  "Bright Tangerine": {
+    "Clamps": [
+      "Bright SWL Quick Trigger Clamp w/ bolt kit"
+    ]
+  },
+  "GFM": {
+    "Clamps": [
+      "Spannschloss"
+    ]
+  },
+  "Generic": {
+    "Clamps": [
+      "A-Clamp Grip Clip",
+      "Krokoklemme",
+      "Uniklemme",
+      "Big Ben",
+      "Barrel Clamp",
+      "Schraubklemme",
+      "Cardellini Clamp",
+      "Deckenscherenklemme",
+      "Schraubzwinge 100 x 100mm"
+    ]
+  }
+}

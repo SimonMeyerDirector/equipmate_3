@@ -1,0 +1,193 @@
+{
+    "Avenger": {
+      "C-Stands": [
+        "C-Stand 40\"",
+        "C-Stand 30\"",
+        "C-Stand 20\"",
+        "C1000 Deckenscherenklemme 16mm"
+      ],
+      "Flags": [
+        "H600M 6x6 modularer Steckrahmen",
+        "H1200M 12x12 modularer Steckrahmen",
+        "H2008 8x8 Butterfly Rahmen",
+        "H2512 12x12 Butterfly Rahmen Compact",
+        "H2508 8x8 Butterfly Rahmen Compact",
+        "Floppy Flag 120x120cm 48x48\""
+      ],
+      "Clamps": [
+        "C150 C-Clamp",
+        "C337 Quick Action Clamp",
+        "C345BK Barrel Clamp 16/28mm"
+      ],
+      "Arms": [
+        "D650 Junior Boom Arm",
+        "D600 Mini Boom Arm",
+        "F100 Junior Offset Arm",
+        "D520 40\" 100cm Extension Arm",
+        "D500 20\" 50cm Extension Arm"
+      ],
+      "Grip Heads": [
+        "D400 Jumbo Grip Head 28mm",
+        "D200 Grip Head 2.5\"",
+        "D100 Double Grip Head 2.5\""
+      ],
+      "Miscellaneous": [
+        "F800 Baby Wall Plate 16mm",
+        "F810 Baby Plate Swivel 16mm",
+        "F900 Baby Triple Header",
+        "E250 Zapfen Long Stud 16/16mm",
+        "E200 Zapfen 28/16mm",
+        "RH02015 Ohr",
+        "F1521 Styropor Klammer"
+      ]
+    },
+    "Matthews": {
+      "Arms": [
+        "Menace Arm Kit L 300cm 16/28mm",
+        "Grip Helper - Junior"
+      ],
+      "Flags": [
+        "Flag 45x120cm 18x48\"",
+        "Flag 45x60cm 18x24\"",
+        "Flag 26x107cm 10x42\"",
+        "Flag 60x90cm 24x36\"",
+        "Flag 60x120cm 24x48\"",
+        "Flag 75x90cm 30x36\""
+      ],
+      "Scrims": [
+        "Scrim 61x92cm - Triple Black",
+        "Scrim 61x92cm - Double Black",
+        "Scrim 61x92cm - Single Black",
+        "White Silk / Black Scrim 120x120cm - Set",
+        "Silk White 120x120cm - China",
+        "Silk White 120x120cm - Full",
+        "Silk White 120x120cm - 1/4",
+        "Silk White 61x92cm - Full",
+        "Silk White 61x92cm - 1/4"
+      ],
+      "Miscellaneous": [
+        "MQ Mount für LED Tubes 10mm",
+        "Junior Baby Receiver 28 - 16mm Hülse"
+      ]
+    },
+    "Manfrotto": {
+      "Autopoles": [
+        "MA077B Autopole 1,0 - 1,7m",
+        "MA076B Autopole 1,5 - 2,7m",
+        "MA032B Autopole 2,1 - 3,7m",
+        "MA033B Autopole Verlängerung 2m",
+        "MA034B Autopole Verlängerung 1,5m"
+      ],
+      "Clamps": [
+        "035 Uniklemme",
+        "043 Kroko Klemme",
+        "386B Nano Clamp",
+        "014-38 Rapidadapter 16mm Hülse - 3/8\"",
+        "014-14 Rapidadapter 16mm Hülse - 1/4\""
+      ],
+      "Arms": [
+        "244N Magic Arm",
+        "425B Mega Boom Arm"
+      ],
+      "Miscellaneous": [
+        "026 Lite-Tite Knickgelenk 16mm",
+        "143BKT Kameraschiene",
+        "241FB Saugnapf / 3-Wege Neiger",
+        "297B BASE Roll- Bodenstativ",
+        "299F BASE Bodenstativ",
+        "012B Backlite Stand",
+        "G200-1 Sandsack leer",
+        "G100-1 Sandsack 5kg",
+        "28mm TV Zapfen M10 Schraube",
+        "28mm TV Zapfen M10 Innengewinde"
+      ]
+    },
+    "Kupo": {
+      "Grip": [
+        "KS-078 16mm Zapfen 3/8\" Schraube",
+        "KS-207 Swivel Junior Adapter 28 - 28mm TV Zapfen - Hülse",
+        "KCP-129 Schraubzwinge 250 x 100mm 28mm Hülse",
+        "KCP-116 Schraubzwinge 250 x 100mm 16mm Zapfen"
+      ]
+    },
+    "Cardellini": {
+      "Clamps": [
+        "Klammer Zapfen 16mm - Center Jaw",
+        "Klammer Zapfen 16mm - long",
+        "Mini Cardellini Klammer 3/8\" Zapfen"
+      ]
+    },
+    "Modern Studios": {
+      "Booms": [
+        "Wide Over and Under Boom Kit 16/28mm"
+      ]
+    },
+    "Riggatec": {
+      "Truss": [
+        "Traversenadapter für 4-Punkt Traverse Zapfen 28mm",
+        "Traversenstapelleiste für 4-Punkt Traversen",
+        "Rollwagen für 4-Punkt Traversen"
+      ]
+    },
+    "Steelfingers": {
+      "Frames": [
+        "1x1m Spiegelblende Aluminium Zapfen 28mm",
+        "1,2x1,2m Folienrahmen Alu Zapfen 16mm"
+      ]
+    },
+    "Udengo": {
+      "Apple Boxes": [
+        "Apple Box SET - verschachtelt",
+        "Apple Box TINY 50x30x2,5cm",
+        "Apple Box LARGE 50x30x20cm",
+        "Apple Box MEDIUM 50x30x10cm",
+        "Apple Box SMALL 50x30x5cm"
+      ]
+    },
+    "PROAIM": {
+      "Adapters": [
+        "Euro to Mitchell Riser",
+        "Mitchell to Ball Adapter 150mm"
+      ]
+    },
+    "Miscellaneous": {
+      "Safety": [
+        "Saveking® Safety mit Dämpfung 100cm/4mm 40kg",
+        "Safety mit Schraubkarabiner 40cm/1.5mm 2kg",
+        "Safety mit Schraubkarabiner 100cm/4mm 15kg",
+        "Safety mit Schraubkarabiner 100cm/6mm 35kg"
+      ],
+      "Sandbags": [
+        "7inch Gewichtssack 10kg"
+      ],
+      "Adapters": [
+        "4-Punkt Traverse Konusverbinder Set",
+        "1-Punkt Traverse Konusverbinder Set"
+      ],
+      "Truss": [
+        "4-Punkt Traverse Aluminium schwarz L 200cm Ø 5cm",
+        "4-Punkt Traverse Aluminium schwarz L 100cm Ø 5cm",
+        "1-Punkt Traverse Aluminium L 200cm Ø 5cm",
+        "1-Punkt Traverse Aluminium L 100cm Ø 5cm",
+        "1-Punkt Traverse Aluminium L 300cm Ø 5cm"
+      ],
+      "Tubes": [
+        "Steckrohr für Bühnenmolton 385cm"
+      ],
+      "Clamps": [
+        "Schraubzwinge 100 x 50mm"
+      ],
+      "Wedges": [
+        "Keile & Plättchen"
+      ],
+      "Misc": [
+        "Bodenanker 38cm Stahl",
+        "Reflektorarm Aufhellerarm",
+        "Bodenständer für Pappstyros",
+        "Haltearm für Pappstyros / Depron / Silberpeppel",
+        "Spanngurt",
+        "Tennisball Bodenschoner",
+        "Wasserwaage 100cm"
+      ]
+    }
+  }

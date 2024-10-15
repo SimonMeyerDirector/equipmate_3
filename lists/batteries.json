@@ -1,0 +1,286 @@
+{
+  "bebob": {
+    "V-Mount": [
+      "V155RM-Cine (155Wh)",
+      "Bebob - B290CINE",
+      "V98RM-Cine (98Wh)",
+      "V45RM-Cine (45Wh)",
+      "V200 Micro (196Wh)",
+      "V150 Micro (147Wh)",
+      "V90 Micro (88Wh)",
+      "VS4 (4-channel charger)",
+      "VS2 (2-channel charger)",
+      "VS1 (1-channel charger)"
+    ],
+    "Gold Mount": [
+      "A155 (155Wh)",
+      "A98 (98Wh)",
+      "A45 (45Wh)",
+      "AS4 (4-channel charger)",
+      "AS2 (2-channel charger)"
+    ],
+    "Block": [
+      "CUBE 1200 (1176Wh)"
+    ]
+  },
+  "IDX": {
+    "V-Mount": [
+      "DUO-C190 (190Wh)",
+      "DUO-C95 (95Wh)",
+      "CUE-D300 (293Wh)",
+      "CUE-D150 (147Wh)",
+      "E-HL10DS (98Wh)",
+      "VL-2000S (2-channel charger)",
+      "VL-4S (4-channel charger)"
+    ]
+  },
+  "Anton Bauer": {
+    "V-Mount": [
+      "Titon 240V (238Wh)",
+      "Titon 150V (156Wh)",
+      "Titon 90V (94Wh)",
+      "Performance Dual V-Mount (2-channel charger)",
+      "Performance Quad V-Mount (4-channel charger)"
+    ],
+    "Gold Mount": [
+      "Titon 240G (238Wh)",
+      "Titon 150G (156Wh)",
+      "Titon 90G (94Wh)",
+      "Dionic XT 150 (156Wh)",
+      "Dionic XT 90 (99Wh)",
+      "Performance Dual Gold Mount (2-channel charger)",
+      "Performance Quad Gold Mount (4-channel charger)"
+    ],
+    "Block": [
+      "VCLX (560Wh)",
+      "CINE VCLX (630Wh)"
+    ]
+  },
+  "Blueshape": {
+    "V-Mount": [
+      "BV190HDtwo (187Wh)",
+      "BV190HD (187Wh)",
+      "BV100HD (100Wh)"
+    ]
+  },
+  "SWIT": {
+    "V-Mount": [
+      "PB-S410S (410Wh)",
+      "PB-S330S (330Wh)",
+      "PB-S290S (290Wh)",
+      "PB-S220S (220Wh)",
+      "PB-S150S (150Wh)",
+      "PB-S98S (98Wh)",
+      "S-8192S (192Wh)",
+      "S-8172S (172Wh)",
+      "S-8340S (343Wh)",
+      "S-8110s (109Wh)",
+      "S-8080s (84Wh)",
+      "S-3812S (2-channel charger)",
+      "S-3804F (4-channel charger)"
+    ]
+  },
+  "Hawk-Woods": {
+    "V-Mount": [
+      "VL-300 (300Wh)",
+      "VL-190 (190Wh)",
+      "VL-150 (150Wh)"
+    ],
+    "Block": [
+      "VL-M1 (156Wh)"
+    ]
+  },
+  "Core SWX": {
+    "V-Mount": [
+      "Hypercore NEO 9 Mini (98Wh)",
+      "Hypercore NEO 150 V-Mount (156Wh)",
+      "Fleet Micro Charger (2-channel)",
+      "Fleet D (4-channel)"
+    ],
+    "Gold Mount": [
+      "Hypercore NEO 9 Mini GM (98Wh)",
+      "Hypercore NEO 150 GM (156Wh)",
+      "Fleet Micro Charger GM (2-channel)",
+      "Fleet D GM (4-channel)"
+    ]
+  },
+  "Patona": {
+    "V-Mount": [
+      "Premium V290 (290Wh)",
+      "Premium V190 (190Wh)",
+      "Premium V95 (95Wh)"
+    ]
+  },
+  "Fxlion": {
+    "V-Mount": [
+      "Nano Two V-Mount (150Wh)",
+      "Nano One V-Mount (90Wh)",
+      "BP-100S (98Wh)",
+      "FX-HP7224 (173Wh)",
+      "FX-HP2A (2-channel charger)",
+      "FX-HP4A (4-channel charger)"
+    ],
+    "Gold Mount": [
+      "Nano Two Gold Mount (150Wh)",
+      "Nano One Gold Mount (90Wh)"
+    ]
+  },
+  "SmallRig": {
+    "V-Mount": [
+      "VB99 (95Wh)",
+      "VB147 (147Wh)"
+    ],
+    "NP-F": [
+      "VB-99 (95Wh)",
+      "VB-147 (147Wh)"
+    ]
+  },
+  "ARRI": {
+    "B-Mount": [
+      "B-Mount (24V, 290Wh)"
+    ],
+    "LPB": [
+      "LPB-8100 (82Wh)"
+    ]
+  },
+  "RED": {
+    "REDVOLT": [
+      "REDVOLT (3200mAh)",
+      "REDVOLT-V (7200mAh)",
+      "REDVOLT XL (16000mAh)",
+      "REDVOLT Charger (2-channel)",
+      "REDVOLT QUAD Charger (4-channel)"
+    ]
+  },
+  "Sony": {
+    "BP": [
+      "BP-U100 (97Wh, 6600mAh)",
+      "BP-U60 (57Wh, 3900mAh)",
+      "BP-U35 (35Wh, 2400mAh)",
+      "BC-U1A (1-channel charger)",
+      "BC-U2A (2-channel charger)"
+    ],
+    "NP": [
+      "NP-FZ100 (2280mAh)",
+      "NP-FW50 (1020mAh)",
+      "NP-F970 (6600mAh)",
+      "NP-F770 (5000mAh)",
+      "NP-F570 (2600mAh)",
+      "BC-QM1 (1-channel charger)",
+      "NPA-MQZ1K Multi-Battery Adaptor Kit (4-channel charger)"
+    ]
+  },
+  "Canon": {
+    "LP-E": [
+      "LP-E6NH (2130mAh)",
+      "LP-E6N (1865mAh)",
+      "LP-E19 (2700mAh)",
+      "LP-E4N (2450mAh)",
+      "LC-E6 (1-channel charger)",
+      "LC-E6E (1-channel charger)",
+      "LC-E19 (1-channel charger)"
+    ]
+  },
+  "Panasonic": {
+    "DMW": [
+      "DMW-BLF19 (1860mAh)",
+      "DMW-BTC14 (1-channel charger)"
+    ],
+    "AG": [
+      "AG-VBR59 (5900mAh)",
+      "AG-VBR89G (8850mAh)",
+      "AG-BRD50 (1-channel charger)"
+    ]
+  },
+  "Nikon": {
+    "EN-EL": [
+      "EN-EL15b (1900mAh)",
+      "EN-EL18c (3300mAh)",
+      "MH-25a (1-channel charger)",
+      "MH-26a (2-channel charger)"
+    ]
+  },
+  "Fujifilm": {
+    "NP": [
+      "NP-W235 (2200mAh)",
+      "NP-W126S (1260mAh)",
+      "BC-W235 (1-channel charger)",
+      "BC-W126S (1-channel charger)"
+    ]
+  },
+  "Goal Zero": {
+    "Yeti": [
+      "Yeti 1500X (1516Wh)",
+      "Yeti 1000X (983Wh)"
+    ]
+  },
+  "Jackery": {
+    "Explorer": [
+      "Explorer 1000 (1002Wh)",
+      "Explorer 500 (518Wh)"
+    ]
+  },
+  "EcoFlow": {
+    "RIVER": [
+      "RIVER Pro (720Wh)"
+    ],
+    "DELTA": [
+      "DELTA (1260Wh)"
+    ]
+  },
+  "Battery Dummies": {
+    "Canon": [
+      "LP-E6 Dummy",
+      "LP-E8 Dummy",
+      "LP-E17 Dummy"
+    ],
+    "Sony": [
+      "NP-FZ100 Dummy",
+      "NP-FW50 Dummy",
+      "NP-F970 Dummy"
+    ],
+    "Nikon": [
+      "EN-EL15 Dummy",
+      "EN-EL14 Dummy"
+    ],
+    "Panasonic": [
+      "DMW-BLF19 Dummy",
+      "DMW-BLC12 Dummy"
+    ],
+    "Fujifilm": [
+      "NP-W126S Dummy"
+    ],
+    "Blackmagic": [
+      "LP-E6 Dummy for BMPCC"
+    ]
+  },
+  "Blackmagic Design": {
+    "URSA": [
+      "URSA Mini Pro 12V AC Power Adapter",
+      "URSA VLock Battery Plate"
+    ]
+  },
+  "Watson": {
+    "Multi-Brand": [
+      "Duo LCD Charger (2-channel)"
+    ]
+  },
+  "Generic": {
+    "Universal": [
+      "V-Mount 2xCharger",
+      "V-Mount 4xCharger",
+      "Gold Mount 2xCharger",
+      "Gold Mount 4xCharger",
+      "NP-F Series Charger",
+      "LP-E6 Charger",
+      "EN-EL15 Charger",
+      "NP-FZ100 Charger",
+      "BP-U Series Charger",
+      "DMW-BLF19 Charger",
+      "NP-W235 Charger",
+      "REDVOLT Charger",
+      "B-Mount Charger",
+      "Multi-Battery Charger"
+    ]
+  }
+}

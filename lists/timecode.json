@@ -1,0 +1,91 @@
+{
+    "Ambient": {
+    "Lockit Series": [
+    "ACN-TL",
+    "ACN-LS",
+    "ACN-CL",
+    "ACN-ML"
+    ],
+    "Master Clocks": [
+    "ACC-501",
+    "ACM-204"
+    ]
+    },
+    "Tentacle Sync": {
+    "Sync E": [
+    "Sync E",
+    "Sync E (2nd Gen)"
+    ],
+    "Track E": [
+    "Track E"
+    ],
+    "Sync Studio": [
+    "Sync Studio"
+    ]
+    },
+    "Denecke": {
+    "Timecode Slates": [
+    "TS-C",
+    "TS-3",
+    "GR-3"
+    ],
+    "Timecode Generators": [
+    "SB-3",
+    "SB-T",
+    "PS-T"
+    ]
+    },
+    "Timecode Systems": {
+    "UltraSync": [
+    "UltraSync ONE",
+    "UltraSync BLUE"
+    ],
+    "SyncBac": [
+    "SyncBac PRO"
+    ]
+    },
+    "Zaxcom": {
+    "Timecode Generators": [
+    "ZFR-300",
+    "TRX-900CL"
+    ],
+    "Slates": [
+    "ZFR-TS3"
+    ]
+    },
+    "Atomos": {
+    "AtomX": [
+    "AtomX SYNC"
+    ]
+    },
+    "Sound Devices": {
+    "Built-in Timecode": [
+    "8-Series",
+    "6-Series",
+    "MixPre II Series"
+    ]
+    },
+    "Zoom": {
+    "Built-in Timecode": [
+    "F8n Pro",
+    "F6"
+    ]
+    },
+    "Timecode Cables": {
+    "Standard": [
+    "5-pin LEMO to BNC",
+    "5-pin LEMO to 3.5mm",
+    "BNC to BNC"
+    ]
+    },
+    "Accessories": {
+    "Distribution Boxes": [
+    "Ambient NanoLockit",
+    "Denecke SB-T"
+    ],
+    "Timecode Readers": [
+    "Tentacle Sync Studio",
+    "Ambient ACR-BP"
+    ]
+    }
+    }

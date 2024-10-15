@@ -1,0 +1,83 @@
+{
+    "Tiffen": {
+      "Steadicam": [
+        "M-1",
+        "M-2",
+        "Zephyr",
+        "Scout",
+        "Shadow V",
+        "Archer 2",
+        "Pilot"
+      ]
+    },
+    "Glidecam": {
+      "HD Series": [
+        "HD-4000",
+        "HD-2000",
+        "HD-1000"
+      ],
+      "XR Series": [
+        "XR-PRO",
+        "XR-4000",
+        "XR-2000",
+        "XR-1000"
+      ],
+      "Devin Graham Series": [
+        "Devin Graham Signature Series"
+      ],
+      "Smooth Shooter": [
+        "Smooth Shooter"
+      ]
+    },
+    "VariZoom": {
+      "FlowPod": [
+        "FlowPod",
+        "FlowPod GT"
+      ]
+    },
+    "Steadicam": {
+      "Volt": [
+        "Volt"
+      ]
+    },
+    "DJI": {
+      "Ronin": [
+        "Ronin-S",
+        "Ronin-SC"
+      ]
+    },
+    "Zhiyun": {
+      "Crane": [
+        "Crane 2",
+        "Crane Plus"
+      ],
+      "Smooth": [
+        "Smooth 4",
+        "Smooth Q2"
+      ]
+    },
+    "Feiyu": {
+      "AK Series": [
+        "AK4000",
+        "AK2000"
+      ]
+    },
+    "Flycam": {
+      "Redking": [
+        "Redking"
+      ],
+      "5000": [
+        "5000"
+      ]
+    },
+    "Sachtler": {
+      "Artemis": [
+        "Artemis Cine HD Pro"
+      ]
+    },
+    "Custom": {
+      "L'Aigle": [
+        "Imperator"
+      ]
+    }
+  }

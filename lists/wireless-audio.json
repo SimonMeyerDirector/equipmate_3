@@ -1,0 +1,113 @@
+{
+"Sennheiser": {
+"Digital 6000 Series": [
+"SK 6000",
+"SKM 6000",
+"EK 6042"
+],
+"Evolution Wireless Digital": [
+"EW-D SKM-S",
+"EW-D SK",
+"EW-D EM"
+],
+"G4 Series": [
+"ew 100 G4",
+"ew 300 G4",
+"ew 500 G4"
+],
+"AVX Series": [
+"AVX-ME2 SET",
+"AVX-MKE2 SET",
+"AVX-Combo SET"
+]
+},
+"Shure": {
+"Axient Digital": [
+"AD1",
+"AD2",
+"ADX1",
+"ADX2"
+],
+"ULX-D Series": [
+"ULXD1",
+"ULXD2",
+"ULXD4D"
+],
+"QLX-D Series": [
+"QLXD1",
+"QLXD2",
+"QLXD4"
+]
+},
+"Lectrosonics": {
+"Digital Hybrid Wireless": [
+"SMWB",
+"SMDWB",
+"HMa"
+],
+"D Squared": [
+"DBu",
+"DHu",
+"DCR822"
+],
+"M2 Duet": [
+"M2T",
+"M2R"
+]
+},
+"Sony": {
+"UWP-D Series": [
+"UWP-D21",
+"UWP-D22",
+"UWP-D26"
+],
+"DWX Series": [
+"DWT-B03R",
+"DWR-S03D",
+"DWM-02N"
+]
+},
+"Zaxcom": {
+"ZMT Series": [
+"ZMT3-phantom",
+"ZMT3-flex",
+"ZMT4"
+],
+"ZHD Modular Receivers": [
+"ERX2TCD",
+"QRX200",
+"RX-12R"
+]
+},
+"Wisycom": {
+"MTP Series": [
+"MTP40S",
+"MTP41S",
+"MTP60"
+],
+"MCR Series": [
+"MCR42S",
+"MCR54",
+"MCR54-Dual"
+]
+},
+"Audio-Technica": {
+"3000 Series": [
+"ATW-T3201",
+"ATW-T3202",
+"ATW-R3210"
+],
+"5000 Series": [
+"ATW-T5201",
+"ATW-T5202",
+"ATW-R5220"
+]
+},
+"Rode": {
+"Wireless GO Series": [
+"Wireless GO II",
+"Wireless GO",
+"Interview GO"
+]
+}
+}

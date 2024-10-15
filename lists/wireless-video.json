@@ -1,0 +1,73 @@
+{
+    "Teradek": {
+      "Bolt": [
+        "1000 XT",
+        "500 LT",
+        "500 XT",
+        "Pro 300",
+        "4K LT 750",
+        "4K 1500"
+      ],
+      "Sidekick": [
+        "XT-RX"
+      ]
+    },
+    "IDX": {
+      "CW": [
+        "CW3"
+      ]
+    },
+    "Vaxis": {
+      "Atom": [
+        "500"
+      ],
+      "Storm": [
+        "3000"
+      ]
+    },
+    "SmallHD": {
+      "700": [
+        "703 Bolt"
+      ],
+      "Cine": [
+        "Cine7 500 TX",
+        "Cine7 500 RX"
+      ]
+    },
+    "Hollyland": {
+      "SYSCOM": [
+        "1000T"
+      ],
+      "Mars": [
+        "300 Pro",
+        "400S Pro"
+      ],
+      "Cosmo": [
+        "600",
+        "1500"
+      ]
+    },
+    "SWIT": {
+      "Flow": [
+        "500",
+        "2000"
+      ]
+    },
+    "Accsoon": {
+      "CineEye": [
+        "2",
+        "2 Pro",
+        "2S"
+      ]
+    },
+    "Deity": {
+      "Connect": [
+        "Connect"
+      ]
+    },
+    "Paralinx": {
+      "Ace": [
+        "Ace"
+      ]
+    }
+  }

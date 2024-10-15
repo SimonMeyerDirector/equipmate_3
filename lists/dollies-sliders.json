@@ -1,0 +1,130 @@
+{
+    "Fisher": {
+      "Dolly": [
+        "10",
+        "11",
+        "23"
+      ]
+    },
+    "Matthews": {
+      "Doorway Dolly": [
+        "Round-d-Round",
+        "Standard"
+      ]
+    },
+    "Kessler": {
+      "Slider": [
+        "Shuttle Dolly",
+        "Cineslider 5ft",
+        "Cineslider 3ft"
+      ]
+    },
+    "ProSup": {
+      "Slider": [
+        "Tango Roller"
+      ]
+    },
+    "Floatcam": {
+      "Dollycrane": [
+        "Dollycrane 2m"
+      ]
+    },
+    "edelkrone": {
+      "Slider": [
+        "SliderPLUS v5 PRO Long",
+        "SliderPLUS Pro XL"
+      ]
+    },
+    "Panther": {
+      "Slider": [
+        "Jib Glider 1,20m",
+        "Multi Glider 2m",
+        "U-Bangi II 3m",
+        "U-Bangi II 1,40m",
+        "Macro Plate"
+      ]
+    },
+    "WM Filmtechnik": {
+      "Slider": [
+        "U-Bangi 0,70m"
+      ]
+    },
+    "Slidekamera": {
+      "Slider": [
+        "SP-600",
+        "HSK-5 Slider 1500"
+      ]
+    },
+    "MovieTech": {
+      "Dolly": [
+        "Magnum",
+        "Leggero",
+        "Sprinter"
+      ]
+    },
+    "GFM": {
+      "Dolly": [
+        "Quad"
+      ],
+      "Tracks": [
+        "GF-Track 160cm",
+        "GF-Track 90cm"
+      ]
+    },
+    "Egripment": {
+      "Dolly": [
+        "Dinky"
+      ]
+    },
+    "Polly Systems": {
+      "Dolly": [
+        "Polly"
+      ]
+    },
+    "Key West": {
+      "Dolly": [
+        "Key West"
+      ]
+    },
+    "abc Products": {
+      "Dolly": [
+        "Willy Go"
+      ]
+    },
+    "P+S Technik": {
+      "Dolly": [
+        "Skater Junior"
+      ]
+    },
+    "Custom": {
+      "Dolly": [
+        "Skateboard Dolly",
+        "Mini-Skateboard-Dolly"
+      ]
+    },
+    "MovieTech": {
+      "Tracks": [
+        "Master Tracks Gerade 230cm",
+        "Master Tracks Gerade 160cm",
+        "Master Tracks Gerade 90cm",
+        "Master Tracks Kurve (1/8 Kreis)"
+      ]
+    },
+    "Generic": {
+      "Tracks": [
+        "45-Degree Curved Dolly Track",
+        "90-Degree Curved Dolly Track",
+        "10' Straight Dolly Track",
+        "8' Straight Dolly Track",
+        "4' Straight Dolly Track",
+        "2' Ramp/Starter Dolly Track"
+      ],
+      "Accessories": [
+        "1\"x4\" Cribbing",
+        "2\"x4\" Cribbing",
+        "2\"x4\" Wedge",
+        "6' Level",
+        "4' Level"
+      ]
+    }
+  }

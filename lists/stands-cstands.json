@@ -1,0 +1,161 @@
+{
+  "Generic": { 
+    "Stands":[
+    "C-Stand Small",
+    "C-Stand Medium",
+    "C-Stand Large",
+    "Baby Stand",
+    "Low Boy Stand",
+    "Combo Stand",
+    "Junior Stand",
+    "Wind-up Stand",
+    "Hi Roller Stand",
+    "Hi-Hi Roller Stand",
+    "Background Stand",
+    "Junior Boom Arm",
+    "Mini Boom Arm",
+    "Autopole",
+    "Wall Spreader",
+    "Light Stand",
+    "Roller Stand",
+    "Overhead Stand",
+    "Menace Arm",
+    "Slider",
+    "Hi-Hat",
+    "Monopod",
+    "Suction Cup Mount"
+  ]},
+  "Avenger": {
+    "C-Stands": [
+      "C-Stand 40\"",
+      "C-Stand 30\"",
+      "C-Stand 20\"",
+      "A1045CS Combo Stand 450cm up to 30kg",
+      "C626 Stand Extension Long 52cm",
+      "A4050CS Combo Stand with Boom",
+      "A3065CS Hi-Hi Walker 638cm up to 30kg",
+      "A3043CS Hi- Roller 423cm up to 40kg",
+      "A3058CS Hi-Hi Roller 580cm up to 40kg",
+      "B6030CS Wind Up 296cm up to 30kg",
+      "A1020CS Low Boy",
+      "A1020CS Low Boy with Wheel Set",
+      "A5012 Roller Stand Low Boy",
+      "A0010CS Baby Stand"
+    ],
+    "Boom Arms": [
+      "D650 Junior Boom Arm",
+      "D600 Mini Boom"
+    ]
+  },
+  "Matthews": {
+    "C-Stands": [
+      "C-Stand 40\" 169028T"
+    ],
+    "Boom Arms": [
+      "Menace Arm Kit L 300cm 16/28mm"
+    ],
+    "Misc Stands": [
+      "Junior Baby Receiver 28 - 16mm Sleeve"
+    ]
+  },
+  "Manfrotto": {
+    "C-Stands": [
+      "A2030D/A225SB 40\" detachable C-stand",
+      "A2033LJCB/A2033L 40\" sliding leg C-stand",
+      "A2022D 30\" detachable C-stand",
+      "A2025L 30\" sliding leg C-stand"
+    ],
+    "Baby Stands": [
+      "A410B High Alu Baby Stand",
+      "004MT Light Tripod Metal",
+      "004B Light Tripod Black",
+      "052B Light Tripod"
+    ],
+    "Junior & Combo Stands": [
+      "A300 High Overhead Roller Light Stand",
+      "270BSU/270U Super Steel Stand",
+      "126BSU/626BU Black Heavy Duty Stand",
+      "007CSU Senior Stand",
+      "A1010CS Lowboy Stand"
+    ],
+    "Wind-up Stands": [
+      "387XU Super Wind Up Stand",
+      "087NW Wind Up Stand"
+    ],
+    "Specialty Stands": [
+      "297B BASE Roll- Floor Stand",
+      "299F BASE Floor Stand",
+      "012B Backlite Stand",
+      "111CSU Steel Stand",
+      "126CSU Steel Stand",
+      "007BU Aluminum Stand"
+    ],
+    "Background Stands": [
+      "272B Telescopic Background Crossbar"
+    ],
+    "Boom Arms": [
+      "425B Mega Boom Arm",
+      "Black Mega Boom 425B (max. 320cm)"
+    ],
+    "Autopoles": [
+      "032 Autopole 210-370cm",
+      "076 Autopole 150-270cm",
+      "077 Autopole 100-170cm",
+      "MA076B Autopole 1,5 - 2,7m",
+      "MA032B Autopole 2,1 - 3,7m"
+    ],
+    "Misc Stands": [
+      "143BKT Camera Slider",
+      "MA 529B Hi-Hat 100mm",
+      "Monopod with Joystick",
+      "241FB Suction Cup / 3-Way Tilt Head"
+    ]
+  },
+  "American Grip": {
+    "C-Stands": [
+      "40\" C-stand"
+    ]
+  },
+  "Kupo": {
+    "Wind-up Stands": [
+      "483BT Steel Black Wind-Up Stand"
+    ]
+  },
+  "Bowens": {
+    "Specialty Stands": [
+      "Aluminum Light Stand Small",
+      "Aluminum Travel Stand"
+    ]
+  },
+  "ABC": {
+    "Boom Arms": [
+      "Crane 120 9m up to 25kg"
+    ]
+  },
+  "GFM": {
+    "Boom Arms": [
+      "Junior Boom",
+      "Mini Jib"
+    ]
+  },
+  "Porta-Jib": {
+    "Boom Arms": [
+      "Traveller Losmandy"
+    ]
+  },
+  "Slidekamera": {
+    "Boom Arms": [
+      "Road Jib Pro"
+    ]
+  },
+  "Panther": {
+    "Wall Spreaders": [
+      "Wallspreader Set - Tension Rod 1.40 - 6.00m"
+    ]
+  },
+  "Abels": {
+    "Wall Spreaders": [
+      "Wall Spreader 2-piece Set - Tension Rod"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+    "Schneider": {
+      "Neutral Density": [
+        "ND 0.3", "ND 0.6", "ND 0.9", "ND 1.2", "ND 1.5", "ND 1.8", "ND 2.1"
+      ],
+      "Graduated ND": [
+        "ND Grad SE 0.3", "ND Grad SE 0.6", "ND Grad SE 0.9", "ND Grad SE 1.2",
+        "ND Grad HE 0.3", "ND Grad HE 0.6", "ND Grad HE 0.9", "ND Grad HE 1.2"
+      ],
+      "IR ND": [
+        "ND IR 0.3", "ND IR 0.6", "ND IR 0.9", "ND IR 1.2", "ND IR 1.5", "ND IR 1.8", "ND IR 2.1"
+      ],
+      "Polarizer": [
+        "True-Polarizing"
+      ],
+      "Diffusion": [
+        "Hollywood Black Magic 1/8", "Hollywood Black Magic 1/4", "Hollywood Black Magic 1/2", "Hollywood Black Magic 1"
+      ]
+    },
+    "Tiffen": {
+      "Neutral Density": [
+        "ND 0.3", "ND 0.6", "ND 0.9", "ND 1.2"
+      ],
+      "Black Pro Mist": [
+        "Black Pro Mist 1/8", "Black Pro Mist 1/4", "Black Pro Mist 1/2", "Black Pro Mist 1", "Black Pro Mist 2"
+      ],
+      "Pro Mist": [
+        "Pro Mist 1/8", "Pro Mist 1/4", "Pro Mist 1/2", "Pro Mist 1", "Pro Mist 2"
+      ],
+      "Glimmerglass": [
+        "Glimmerglass 1/4", "Glimmerglass 1/2", "Glimmerglass 1", "Glimmerglass 2"
+      ],
+      "Soft FX": [
+        "Soft FX 1/2", "Soft FX 1", "Soft FX 2", "Soft FX 3"
+      ],
+      "Black Diffusion": [
+        "Black Diffusion FX 1/2", "Black Diffusion FX 1", "Black Diffusion FX 3"
+      ],
+      "Streak": [
+        "Streak 2mm", "Streak 3mm"
+      ],
+      "Star": [
+        "Star 4pt.", "Star 6pt.", "Star 8pt."
+      ]
+    },
+    "Lee": {
+      "Color": [
+        "81 Series", "85 Series"
+      ]
+    },
+    "Lindsey Optics": {
+      "Variable ND": [
+        "Brilliant² 1-Slot Variable ND Filter 0.6-2.4"
+      ]
+    },
+    "Rosco": {
+      "Color Effects": [
+        "CalColor 60 Cyan", "CalColor 30 Cyan", "CalColor 15 Cyan"
+      ]
+    }
+  }

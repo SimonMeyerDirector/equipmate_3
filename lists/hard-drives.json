@@ -1,0 +1,94 @@
+{
+    "Storage Media": {
+      "SSD": [
+        "Solid State Drive (SSD) 240GB",
+        "Solid State Drive (SSD) 480GB",
+        "Solid State Drive (SSD) 512GB",
+        "Solid State Drive (SSD) 500GB 2.5\" Atom X Angelbird",
+        "Solid State Drive (SSD) 500GB Samsung T5 Portable SSD",
+        "Solid State Drive (SSD) 1TB Samsung T5 Portable SSD",
+        "Solid State Drive (SSD) 2TB Samsung T7 Portable SSD"
+      ],
+      "SD Cards": [
+        "SDXC Karte 64 GB UHS-I U3 95 MB/s SanDisk Extreme Pro",
+        "SDXC Karte 64 GB UHS-I U3 V30 170 MB/s SanDisk Extreme Pro",
+        "SDXC Karte 64 GB UHS-II U3 280 MB/s SanDisk Extreme Pro",
+        "SDXC Karte 64 GB UHS-II U3 300 MB/s SanDisk Extreme Pro",
+        "SDXC Karte 128 GB UHS-I U3 95 MB/s SanDisk Extreme Pro",
+        "SDXC Karte 128 GB UHS-II U3 300 MB/s SanDisk Extreme Pro",
+        "SDXC Karte 128 GB UHS-II U3 V90 300 MB/s Angelbird",
+        "SDXC Karte 256 GB UHS-II U3 V90 300 MB/s Angelbird"
+      ],
+      "MicroSD Cards": [
+        "SDXC micro Karte 32GB UHS-I U3 V30 SanDisk Extreme Pro",
+        "SDXC micro Karte 64GB UHS-I U3 V30 SanDisk Extreme Pro",
+        "SDXC micro Karte 128GB UHS-I U3 V30 SanDisk Extreme Pro"
+      ],
+      "CFast Cards": [
+        "CFast 2.0 Karte 128 GB",
+        "CFast 2.0 Karte 256 GB",
+        "CFast 2.0 Karte 512 GB"
+      ],
+      "CFexpress Cards": [
+        "CFexpress Typ-A 1 TB 820 MB/s Angelbird AV Pro",
+        "CFexpress Typ-A 160 GB 800 MB/s Sony Tough",
+        "CFexpress Typ-A 256 GB 1.700 MB/s",
+        "CFexpress Typ-A 512 GB 1.700 MB/s",
+        "CFexpress Typ-B 256 GB 1.700 MB/s",
+        "CFexpress Typ-B 512 GB 1.700 MB/s",
+        "CFexpress Typ-B 1 TB 1.700 MB/s"
+      ],
+      "XQD Cards": [
+        "XQD Karte 32 GB",
+        "XQD Karte 128 GB",
+        "XQD Karte 240 GB"
+      ],
+      "SxS Cards": [
+        "SxS Karte 8 GB",
+        "SxS Karte 16 GB",
+        "SxS Karte 32 GB",
+        "SxS Karte 64 GB",
+        "SxS PRO+ Karte 64 GB",
+        "SxS PRO+ Karte 128 GB"
+      ],
+      "Compact Flash Cards": [
+        "Compact Flash (CF) Karte 8GB",
+        "Compact Flash (CF) Karte 16GB",
+        "Compact Flash (CF) Karte 32GB",
+        "Compact Flash (CF) Karte 64GB",
+        "Compact Flash (CF) Karte 128GB"
+      ],
+      "Camera-Specific Storage": [
+        "ARRI Codex Compact Drive 960GB",
+        "RED Mini-Mag (SSD) 512GB",
+        "Sony AXSM Card 1TB"
+      ],
+      "Generic": [
+        "32GB SD Card",
+        "64GB SD Card",
+        "128GB SD Card",
+        "256GB SD Card",
+        "32GB MicroSD Card",
+        "64GB MicroSD Card",
+        "128GB MicroSD Card",
+        "256GB CFast Card",
+        "512GB CFast Card",
+        "128GB CFexpress Type A Card",
+        "256GB CFexpress Type A Card",
+        "512GB CFexpress Type A Card",
+        "1TB CFexpress Type A Card",
+        "256GB CFexpress Type B Card",
+        "512GB CFexpress Type B Card",
+        "1TB CFexpress Type B Card",
+        "64GB XQD Card",
+        "128GB XQD Card",
+        "250GB SSD",
+        "500GB SSD",
+        "1TB SSD",
+        "2TB SSD",
+        "1TB HDD",
+        "2TB HDD",
+        "4TB HDD"
+      ]
+    }
+  }

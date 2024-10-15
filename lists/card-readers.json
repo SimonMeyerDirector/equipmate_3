@@ -1,0 +1,66 @@
+{
+    "Card Readers": {
+      "ARRI": [
+        "ARRI Codex Compact Drive Reader"
+      ],
+      "RED": [
+        "RED Mini-Mag Reader",
+        "RED REDMAG 1.8\" Reader"
+      ],
+      "Sony": [
+        "Sony AXS-R5/R7 Reader",
+        "Sony SxS Card Reader USB 3.0",
+        "Sony XQD G Series Card Reader USB 3.0"
+      ],
+      "Angelbird": [
+        "Angelbird CFast 2.0 Card Reader USB-C / 3.0",
+        "Angelbird CFexpress Type B Card Reader USB-C"
+      ],
+      "Blackmagic Design": [
+        "Blackmagic Design UltraStudio Mini Recorder"
+      ],
+      "CODEX": [
+        "CODEX Compact Drive Reader USB-C"
+      ],
+      "Kingston": [
+        "Kingston CF/SD Card Reader USB 3.0"
+      ],
+      "Lexar": [
+        "Lexar Professional Workflow HR1 (Thunderbolt 2)"
+      ],
+      "ProGrade": [
+        "ProGrade CFexpress Type B Card Reader USB-C"
+      ],
+      "Rocketek": [
+        "Rocketek CFexpress Type B Card Reader USB-C / 3.0"
+      ],
+      "SanDisk": [
+        "SanDisk CFast 2.0 Card Reader USB 3.0",
+        "SanDisk CF Card Reader FireWire 400/800",
+        "SanDisk CF Card Reader USB 2.0",
+        "SanDisk CF Card Reader USB 3.0"
+      ],
+      "Sonnet": [
+        "Sonnet SF3 Series CFast 2.0 Pro Card Reader"
+      ],
+      "Generic": [
+        "Generic CF Card Reader",
+        "Generic CFast Card Reader",
+        "Generic CFexpress Type A Card Reader",
+        "Generic CFexpress Type B Card Reader",
+        "Generic MicroSD Card Reader",
+        "Generic SD Card Reader",
+        "Generic SxS Card Reader",
+        "Generic XQD Card Reader",
+        "Generic P2 Card Reader",
+        "Generic RED Mini-Mag Reader",
+        "Generic REDMAG Reader",
+        "Generic AXS Memory Card Reader",
+        "Generic SxS Pro+ Card Reader",
+        "Generic ExpressCard Reader",
+        "Generic UHS-II SD Card Reader",
+        "Generic UHS-I SD Card Reader",
+        "Generic Multi-Card Reader"
+      ]
+    }
+  }

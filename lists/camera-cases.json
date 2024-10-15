@@ -1,0 +1,61 @@
+{
+  "Peli": {
+    "Camera Case": [
+      "1510",
+      "1535",
+      "1560",
+      "1610",
+      "1620",
+      "1650"
+    ],
+    "Lens Case": [
+      "1450",
+      "1500",
+      "1550"
+    ]
+  },
+  "Think Tank": {
+    "Camera Bag": [
+      "Airport Security V3.0",
+      "Airport International V3.0",
+      "Airport Takeoff V2.0",
+      "Production Manager 40"
+    ],
+    "Lens Case": [
+      "Lens Changer 75 Pop Down V3.0",
+      "Lens Case Duo 5",
+      "Lens Case Duo 15",
+      "Lens Case Duo 30"
+    ]
+  },
+  "Inovativ": {
+    "Camera Cart": [
+      "Echo",
+      "Ranger",
+      "Scout",
+      "Apollo",
+      "Voyager",
+      "Hybrid One"
+    ],
+    "Accessory": [
+      "DigiSystem",
+      "DigiShade",
+      "Keyboard Tray",
+      "Power Distribution Unit"
+    ]
+  },
+  "Magliner": {
+    "Camera Cart": [
+      "Junior",
+      "Senior",
+      "Mini",
+      "X-Series"
+    ],
+    "Accessory": [
+      "Shelf Kit",
+      "Accessory Tray",
+      "Casters",
+      "Push Bar"
+    ]
+  }
+}

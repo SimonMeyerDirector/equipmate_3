@@ -1,0 +1,161 @@
+{
+    "SmallHD": {
+      "500": [
+        "503 Ultrabright",
+        "502 Bright"
+      ],
+      "Focus": [
+        "OLED HDMI",
+        "OLED SDI"
+      ],
+      "700": [
+        "703 Bolt",
+        "702 Bright"
+      ],
+      "Cine": [
+        "Cine7",
+        "Indie7"
+      ]
+    },
+    "TVLogic": {
+      "F": [
+        "F-5A",
+        "F-7H 3600nit"
+      ],
+      "VFM": [
+        "056WP"
+      ],
+      "LVM": [
+        "074W"
+      ]
+    },
+    "Atomos": {
+      "Shogun": [
+        "7",
+        "Inferno",
+        "Flame",
+        "Shogun"
+      ],
+      "Ninja": [
+        "V+",
+        "V",
+        "2"
+      ],
+      "Sumo": [
+        "19"
+      ],
+      "Shinobi": [
+        "SDI"
+      ]
+    },
+    "Video Devices": {
+      "PIX-E": [
+        "5",
+        "7"
+      ]
+    },
+    "Blackmagic Design": {
+      "Video Assist": [
+        "4K"
+      ],
+      "SmartView": [
+        "4K"
+      ],
+      "URSA": [
+        "Viewfinder OLED"
+      ]
+    },
+    "Zacuto": {
+      "Kameleon": [
+        "EVF Pro"
+      ]
+    },
+    "RED": {
+      "DSMC3": [
+        "Compact EVF Pack"
+      ]
+    },
+    "Transvideo": {
+      "StarliteHD": [
+        "5-ARRI OLED"
+      ]
+    },
+    "Marshall": {
+      "V-LCD": [
+        "71MD"
+      ]
+    },
+    "SWIT": {
+      "S": [
+        "1071F",
+        "1090F",
+        "1090C",
+        "2610",
+        "2620"
+      ]
+    },
+    "Lilliput": {
+      "Q": [
+        "24"
+      ],
+      "PVM": [
+        "220S"
+      ]
+    },
+    "Ikan": {
+      "D": [
+        "24"
+      ],
+      "MS": [
+        "21"
+      ]
+    },
+    "Boland": {
+      "SEL": [
+        "24b"
+      ]
+    },
+    "BON": {
+      "BXM": [
+        "183L3G"
+      ]
+    },
+    "Sony": {
+      "LMD": [
+        "2050W",
+        "1750W"
+      ],
+      "PVM": [
+        "2541",
+        "1741"
+      ],
+      "HDR": [
+        "SR11E"
+      ]
+    },
+    "Alphatron": {
+      "EVF": [
+        "Retina"
+      ]
+    },
+    "Panasonic": {
+      "DMW": [
+        "XLR1"
+      ]
+    },
+    "Wooden Camera": {
+      "Directors Monitor": [
+        "v3"
+      ]
+    },
+    "LG": {
+      "UL850": [
+        "27UL850-W"
+      ]
+    },
+    "BenQ": {
+      "HDMI LED Display": [
+        "21"
+      ]
+    }
+  }

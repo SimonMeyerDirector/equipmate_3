@@ -1,0 +1,221 @@
+{
+  "ARRI": {
+    "Alexa": [
+      "ALEXA Mini LF",
+      "ALEXA Mini",
+      "ALEXA 65",
+      "ALEXA LF",
+      "ALEXA SXT",
+      "ALEXA 35"
+      
+    ]
+
+  },
+    "Freefly": {
+      "Ember": [
+        "S5K"        
+      ],
+      "WAVE": [
+        "Wave"      ] 
+  
+    },
+
+  "RED": {
+    "DSMC3": [
+      "V-Raptor [X] 8K VV",
+      "V-Raptor XL 8K",
+      "KOMODO-X 6K",
+      "KOMODO 6K"
+
+    ],
+    "DSMC2": [
+      "GEMINI 5K",
+      "Epic Dragon"
+
+    ]
+  },
+  "Sony": {
+    "CineAlta": [
+      "Venice 2",
+      "Venice",
+      "Burano", "ILME-FX3", "ILME-FX30"
+
+    ],
+    "PXW": [
+      "PXW-FX6",
+      "PXW-FX9",
+      "PXW-FS7 Mark II",
+      "PXW-FS7",
+      "PXW-Z280",
+      "PXW-Z90"
+    ],
+    "Alpha": [
+      "Alpha7s Mark III",
+      "Alpha7s Mark II",
+      "Alpha7 Mark IV",
+      "Alpha7 Mark III",
+      "Alpha7 Mark II",
+      "Alpha6600",
+      "Alpha6500"
+    ],
+    "ZV-1": [
+      "ZV-1"
+    ],
+    "ZV-E10": [
+      "ZV-E10"
+    ],
+    "ZV-E1": [
+      "ZV-E1"
+    ],
+
+
+    "HDV": [
+      "HDR-SR11E",
+      "HDR-SR10E"
+    ]
+  },
+  "Canon": {
+    "EOS": [
+      "EOS R5C",
+      "EOS R5",
+      "EOS R6",
+      "EOS R3",
+      "EOS R",
+      "EOS 5D Mark IV",
+      "EOS 5DS R",
+      "EOS 5D Mark III",
+      "EOS 5D Mark II",
+      "EOS 6D Mark II",
+      "EOS 60D"
+    ],
+    "Cinema": [
+      "C300 Mark III",
+      "C70",
+      "C300 Mark II",
+      "C500 Mark II",
+      "C500 Mark I"
+    ],
+    "XF": [
+      "XF605",
+      "XF600",
+      "XF505",
+      "XF500"
+    ]
+  },
+  "Blackmagic": {
+    "URSA": [
+      "URSA mini Pro 12K",
+      "URSA mini Pro 4,6K G2",
+      "URSA Cine 17K 65"
+    ],
+    "Pocket Cinema Camera": [
+      "Pocket Cinema Camera 6K PRO",
+      "Pocket Cinema Camera 6K",
+      "Pocket Cinema Camera 4K"
+    ],
+    "Micro Cinema Camera": [
+      "Micro Cinema Camera 4,6K"
+    ],
+    "Pyxis": [
+      "Pyxis 6K"
+    ]
+  },
+  "Panasonic": {
+    "Lumix": [
+      "GH6"
+    ]
+  },
+  "GoPro": {
+    "HERO": [
+      "HERO13 Black Edition",
+      "Hero13",
+      "HERO12 Black Edition",
+      "HERO12",
+      "HERO11 Black Edition",
+      "HERO11",
+      "HERO10 Black Edition",
+      "HERO10",
+      "HERO9 Black Edition",
+      "HERO9",
+      "HERO8 Black Edition",
+      "HERO8",
+      "HERO7 Black Edition",
+      "HERO7",
+      "HERO6 Black Edition",
+      "HERO6",
+      "HERO5 Black Edition",
+      "HERO5",
+      "HERO4 Black Edition",
+      "HERO4",
+      "HERO3+",
+      "HERO3",
+      "HERO2",
+      "HERO1"
+    ]
+  },
+  "Nikon": {
+    "D": [
+      "D850",
+      "D800",
+      "D750",
+      "D7200",
+      "D7100",
+      "D7000",
+      "D5000",
+      "D5100",
+      "D5200",
+      "D5300"
+    ],
+    "Z": [
+      "Z 6 I",
+      "Z 6 II",
+      "Z 6 III",
+      "Z 7 II",
+      "Z 7",
+      "Z 50",
+      "Z 30",
+      "Z fc",
+      "Z 9",
+      "Z 8",
+      "Z 5",
+      "Z 3",
+      "Z fc",
+      "Z 90",
+      "Z 80",
+      "Z 70",
+      "Z 60",
+      "Z 50"
+      
+    ]
+  },
+  "Fuji": {
+    "GFX": [
+      "GFX 100 II",
+      "GFX 100",
+      "GFX 50S",
+      "GFX 50R"
+    ],
+    "X": [
+      "X100V",
+      "X100F",
+      "X100T",
+      "X100S",
+      "X100",
+      "X-Pro2",
+      "X-Pro1",
+      "X-E2",
+      "X-E1"
+    ],
+    "XP": [
+      "XP140",
+      "XP120",
+      "XP100",
+      "XP90",
+      "XP80",
+      "XP70",
+      "XP60",
+      "XP50",
+      "XP40"
+    ]
+  }
+}

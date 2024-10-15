@@ -1,0 +1,136 @@
+{
+    "DJI": {
+      "Ronin": [
+        "Ronin 2",
+        "RS 4 Pro",
+        "RS 3 Pro",
+        "RS 2 Pro",
+        "RS 2",
+        "Ronin-S",
+        "Ronin-SC",
+        "Ronin-M",
+        "Ronin-MX"
+      ],
+      "Osmo": [
+        "Osmo +",
+        "Osmo Mobile 6",
+        "Osmo Mobile 5",
+        "Osmo Mobile 4",
+        "Osmo Mobile 3",
+        "Osmo Action"
+      ]
+    },
+    "Tilta": {
+      "Gravity": [
+        "G2X",
+        "G1",
+        "G2",
+        "G360"
+      ]
+    },
+    "Zhiyun": {
+      "Crane": [
+        "Crane 3S",
+        "Crane 2S",
+        "Crane 2",
+        "Crane-M2",
+        "Crane Plus"
+      ],
+      "Weebill": [
+        "Weebill 3",
+        "Weebill 2",
+        "Weebill S"
+      ],
+      "Smooth": [
+        "Smooth 5",
+        "Smooth 4",
+        "Smooth Q3"
+      ]
+    },
+    "Moza": {
+      "Air": [
+        "AirCross 3",
+        "Air 2S",
+        "Air 2"
+      ],
+      "Guru": [
+        "Guru 360 Air"
+      ]
+    },
+    "Feiyu Tech": {
+      "AK": [
+        "AK4500",
+        "AK2000"
+      ],
+      "G": [
+        "G6 Plus",
+        "G6 Max"
+      ]
+    },
+    "Gudsen": {
+      "Movi": [
+        "Movi Pro",
+        "Movi M15",
+        "Movi M10",
+        "Movi M5"
+      ]
+    },
+    "Glidecam": {
+      "HD": [
+        "HD-4000",
+        "HD-2000"
+      ]
+    },
+    "Letus": {
+      "Helix": [
+        "Helix Jr",
+        "Helix Standard",
+        "Helix Pro"
+      ]
+    },
+    "CAME-TV": {
+      "Prophet": [
+        "Prophet 4-in-1"
+      ],
+      "Optimus": [
+        "Optimus"
+      ]
+    },
+    "Pilotfly": {
+      "Adventurer": [
+        "Adventurer"
+      ],
+      "H2": [
+        "H2"
+      ]
+    },
+    "Movietech": {
+      "Magnum": [
+        "Magnum"
+      ],
+      "Easyrig": [
+        "Vario 5 Strong",
+        "5 Vario",
+        "3",
+        "Minimax"
+      ],
+      "Flowcine": [
+        "Serene",
+        "Puppeteer 2-Axis"
+      ],
+      "ReadyRig": [
+        "GS",
+        "GS Pro Arm",
+        "VEGA"
+      ]
+    },
+    "Freefly": {
+        "MōVI": [
+          "MōVI Pro",
+          "MōVI XL",
+          "MōVI M15",
+          "MōVI M10",
+          "MōVI M5"
+        ]
+      }
+  }

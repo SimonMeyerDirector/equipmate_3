@@ -1,0 +1,91 @@
+{
+    "Sound Devices": {
+    "8-Series": [
+    "Scorpio",
+    "833"
+    ],
+    "6-Series": [
+    "688",
+    "664",
+    "633"
+    ],
+    "3-Series": [
+    "302",
+    "310",
+    "312"
+    ]
+    },
+    "Zoom": {
+    "F Series": [
+    "F8n Pro",
+    "F6",
+    "F4"
+    ],
+    "LiveTrak Series": [
+    "L-20",
+    "L-12",
+    "L-8"
+    ]
+    },
+    "Zaxcom": {
+    "Nova": [
+    "Nova"
+    ],
+    "Maxx": [
+    "Maxx"
+    ]
+    },
+    "Lectrosonics": {
+    "D Squared": [
+    "D Squared"
+    ]
+    },
+    "Yamaha": {
+    "TF Series": [
+    "TF5",
+    "TF3",
+    "TF1"
+    ],
+    "MG Series": [
+    "MG20XU",
+    "MG16XU",
+    "MG12XU"
+    ]
+    },
+    "Mackie": {
+    "ProFX Series": [
+    "ProFX30v3",
+    "ProFX16v3",
+    "ProFX12v3"
+    ],
+    "Onyx Series": [
+    "Onyx24",
+    "Onyx16",
+    "Onyx12"
+    ]
+    },
+    "Allen & Heath": {
+    "SQ Series": [
+    "SQ-7",
+    "SQ-6",
+    "SQ-5"
+    ],
+    "Qu Series": [
+    "Qu-32",
+    "Qu-24",
+    "Qu-16"
+    ]
+    },
+    "Behringer": {
+    "X32 Series": [
+    "X32",
+    "X32 Compact",
+    "X32 Producer"
+    ],
+    "Xenyx Series": [
+    "X2442USB",
+    "X1832USB",
+    "X1222USB"
+    ]
+    }
+    }

@@ -1,0 +1,62 @@
+{
+    "Neumann": {
+    "KMR": [
+    "KMR 81",
+    "KMR 82i"
+    ],
+    "FET": [
+    "KM 150"
+    ]
+    },
+    "Sennheiser": {
+    "ME": [
+    "ME 62",
+    "ME 64",
+    "ME 66",
+    "ME 67"
+    ],
+    "MKH": [
+    "MKH 416",
+    "MKH 8060",
+    "MKH 805",
+    "MKH 406T",
+    "MKH 418 S"
+    ],
+    "MD": [
+    "MD 46"
+    ],
+    "MKE": [
+    "MKE 600",
+    "MKE 400",
+    "MKE 440",
+    "MKE 2-60",
+    "MKE 40"
+    ]
+    },
+    "Sony": {
+    "ECM": [
+    "ECM-MS 957"
+    ]
+    },
+    "Rode": {
+    "Videomic": [
+    "Videomic Pro+",
+    "Videomic Pro"
+    ]
+    },
+    "Schoeps": {
+    "Grenzfläche": [
+    "BLM 03C"
+    ]
+    },
+    "Sanken": {
+    "COS": [
+    "COS-11"
+    ]
+    },
+    "Countryman": {
+    "B3": [
+    "B3W4FF05BSR"
+    ]
+    }
+    }

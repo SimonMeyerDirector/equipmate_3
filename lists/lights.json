@@ -1,0 +1,241 @@
+{
+    "ARRI": {
+      "LED": [
+        "SkyPanel S120-C",
+        "SkyPanel S60-C",
+        "SkyPanel S30-C",
+        "Orbiter",
+        "L7-C",
+        "L5-C"
+      ],
+      "HMI": [
+        "M40",
+        "M18",
+        "M25",
+        "ARRISUN 60",
+        "ARRISUN 40/25",
+        "Compact 2500",
+        "Compact 1200",
+        "Compact 575",
+        "D5"
+      ],
+      "Tungsten": [
+        "True Blue T5 5000W",
+        "True Blue T2 2000W", 
+        "Junior 5000",
+        "Junior 2000",
+        "Junior 650 Plus",
+        "Junior 300 Plus",
+        "Junior 150",
+        "ARRILITE 2000",
+        "ARRILITE 800",
+        "Studio 1000"
+      ]
+    },
+    "Aputure": {
+      "LED": [
+        "Light Storm LS 1200D PRO",
+        "Light Storm LS 600c PRO",
+        "Light Storm LS 600x PRO",
+        "Light Storm LS 600d PRO",
+        "Light Storm LS C300X",
+        "Light Storm LS C300d II",
+        "Light Storm LS C300d",
+        "Light Storm LS C120d II",
+        "Light Storm 600x Pro",
+        "Light Storm 600c Pro",
+        "Light Storm 300X",
+        "Light Storm 300x",
+        "Light Storm 60x",
+        "Amaran 300C",
+        "Amaran 200X",
+        "Amaran 100X",
+        "Amaran 60X",
+        "Amaran F22c",
+        "Amaran F21c",
+        "Nova P600c",
+        "Nova P300c",
+        "MC Pro",
+        "MC",
+        "B7c"
+      ]
+    },
+    "Astera": {
+      "LED": [
+        "Titan Tube",
+        "Helios Tube",
+        "AX1 Pixeltube",
+        "AX3 LightDrop",
+        "NYX Bulb"
+      ]
+    },
+    "Dedolight": {
+      "LED": [
+        "LEDRaptor 5",
+        "DLED9-D"
+      ],
+      "Tungsten": [
+        "DLH4",
+        "DLH3",
+        "DLH650",
+        "DLH400D"
+      ]
+    },
+    "Kino Flo": {
+      "Fluorescent": [
+        "4-bank 4ft",
+        "4-bank 2ft",
+        "2-bank 4ft", 
+        "2-bank 2ft",
+        "1-bank 4ft",
+        "1-bank 2ft"
+      ],
+      "LED": [
+        "FreeStyle 31",
+        "Celeb 250",
+        "Celeb 450",
+        "Celeb 850"
+      ]
+    },
+    "Litepanels": {
+      "LED": [
+        "Astra 3X",
+        "Astra 6X",
+        "Gemini 1x1 Soft",
+        "Gemini 2x1 Soft"
+      ]
+    },
+    "SWIT": {
+      "LED": [
+        "S-2110CS",
+        "S-2120CS"
+      ]
+    },
+    "Digital Sputnik": {
+      "LED": [
+        "DS 1",
+        "DS 3",
+        "DS 6",
+        "Voyager"
+      ]
+    },
+    "Creamsource": {
+      "LED": [
+        "Vortex8",
+        "Vortex4",
+        "Micro Colour"
+      ]
+    },
+    "K5600": {
+      "HMI": [
+        "Joker-Bug 800",
+        "Joker-Bug 400",
+        "Joker 2",
+        "Alpha 4K",
+        "Alpha 1.8K"
+      ]
+    },
+    "Quartz Color": {
+      "HMI": [
+        "Sirio 4000"
+      ]
+    },
+    "ARRILITE": {
+      "Tungsten": [
+        "2000",
+        "800",
+        "600"
+      ]
+    },
+    "Ianiro": {
+      "Tungsten": [
+        "Blonde 2000W",
+        "Redhead 800W"
+      ]
+    },
+    "Dedolight": {
+      "Tungsten": [
+        "DLH4",
+        "DLHM4",
+        "DLH3"
+      ]
+    },
+    "ETC": {
+      "Tungsten": [
+        "Source Four 750"
+      ]
+    },
+    "Fomex": {
+      "LED": [
+        "RollLite RL33"
+      ]
+    },
+    "BB&S": {
+      "LED": [
+        "Area 48 Soft",
+        "Pipeline"
+      ]
+    },
+    "LiteGear": {
+      "LED": [
+        "LiteMat+ 4",
+        "LiteMat+ 2L",
+        "LiteMat 4",
+        "LiteMat 2L"
+      ]
+    },
+    "ROSCO": {
+      "LED": [
+        "Silk 210",
+        "Silk 305"
+      ]
+    },
+    "Nanlite": {
+      "LED": [
+        "Forza 720",
+        "Forza 500",
+        "Forza 300",
+        "Forza 150",
+        "Forza 60",
+        "PavoTube II 30X",
+        "PavoTube II 15X",
+        "PavoTube II 6C"
+      ]
+    },
+    "Carpetlight": {
+      "LED": [
+        "CL21",
+        "CL42",
+        "CL84"
+      ]
+    },
+    "The Light": {
+      "LED": [
+        "Velvet 1",
+        "Velvet 2",
+        "Velvet Power 1",
+        "Velvet Power 2"
+      ]
+    },
+    "Miscellaneous": {
+      "Tungsten": [
+        "PAR 64",
+        "Fresnel 5K",
+        "Fresnel 2K",
+        "Fresnel 1K",
+        "Fresnel 650W",
+        "Fresnel 300W"
+      ],
+      "LED": [
+        "Astera Titan",
+        "Astera Helios",
+        "Aladdin Bi-Flex",
+        "F&V Z400S UltraColor",
+        "TECPRO Felloni"
+      ],
+      "Fluorescent": [
+        "Kino Flo 4Bank",
+        "Kino Flo 2Bank"
+      ]
+    }
+  }

@@ -1,0 +1,18 @@
+{
+    "ARRI": {
+      "FF": ["FF-4", "FF-3"],
+      "MFF": ["MFF-1"]
+    },
+    "O'Connor": {
+      "CFF": ["CFF-1"]
+    },
+    "Chrosziel": {
+      "MagNum": ["MagNum MN200", "MagNum MN150"]
+    },
+    "Tilta": {
+      "Nucleus": ["Nucleus-M", "Nucleus-N II"]
+    },
+    "Zacuto": {
+      "Z-Drive": ["Z-Drive Tornado"]
+    }
+  }

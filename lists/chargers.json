@@ -1,0 +1,175 @@
+{
+  "Verlängerungskabel": {
+    "Schuko": [
+      "5m", "10m", "15m", "20m", "25m", "50m"
+    ],
+    "CEE": [
+      "16A 10m", "16A 15m", "16A 20m", "32A 10m", "32A 15m", "32A 20m",
+      "63A 10m", "63A 15m", "63A 20m", "125A 10m", "125A 15m"
+    ]
+  },
+  "Mehrfachsteckdosen": {
+    "Schuko": [
+      "3-fach", "4-fach", "5-fach", "6-fach", "8-fach", "10-fach"
+    ],
+    "Rackeinbau": [
+      "8-fach", "12-fach", "16-fach"
+    ],
+    "Mit USB": [
+      "4-fach + 2 USB", "6-fach + 4 USB"
+    ]
+  },
+  "Stromadapter": {
+    "Bommel": [
+      "2-fach", "3-fach", "5-fach"
+    ],
+    "CEE auf Schuko": [
+      "16A auf 3x Schuko", "16A auf 6x Schuko", "32A auf 6x Schuko",
+      "32A auf 9x Schuko", "63A auf 6x Schuko", "63A auf 12x Schuko"
+    ],
+    "International": [
+      "EU auf UK", "EU auf US", "EU auf AU", "Universal"
+    ]
+  },
+  "Stromverteilung": {
+    "Tragbar": [
+      "16A 3-phasig", "32A 3-phasig", "63A 3-phasig", "125A 3-phasig"
+    ],
+    "Starkstromverteiler": [
+      "32A 3-phasig", "63A 3-phasig", "125A 3-phasig"
+    ],
+    "Dimmer-Packs": [
+      "4-Kanal", "6-Kanal", "12-Kanal"
+    ]
+  },
+  "Sicherheitsausrüstung": {
+    "FI-Schutzschalter": [
+      "16A", "32A", "63A"
+    ],
+    "Kabelbrücken": [
+      "2-Kanal", "3-Kanal", "5-Kanal"
+    ],
+    "Erdungsspieße": [
+      "30cm", "50cm", "100cm"
+    ]
+  },
+  "Spezialkabel": {
+    "Auftrennkabel": [
+      "32A 3-phasig auf 3x 16A 1-phasig", "63A 3-phasig auf 3x 32A 1-phasig"
+    ],
+    "Socapex-Kabel": [
+      "6-Kreis 19-polig", "12-Kreis 19-polig"
+    ],
+    "PowerCON-Kabel": [
+      "PowerCON auf Schuko 5m", "PowerCON auf PowerCON 10m", "PowerCON TRUE1 auf Schuko 5m"
+    ]
+  },
+  "Netzteile": {
+    "Gleichstromnetzteile": [
+      "12V 10A", "24V 20A", "48V 40A"
+    ],
+    "Akkuladegeräte": [
+      "V-Mount", "Gold Mount", "NP-F Serie"
+    ]
+  },
+  "Kabelmanagement": {
+    "Kabelbinder": [
+      "100mm", "200mm", "300mm"
+    ],
+    "Klettverschlüsse": [
+      "10mm x 5m", "20mm x 10m"
+    ],
+    "Kabelschläuche": [
+      "25mm Durchmesser", "40mm Durchmesser"
+    ]
+  },
+  "Unterverteilung": {
+    "Baustromverteiler": [
+      "16A auf 6x Schuko", "32A auf 12x Schuko", "63A auf 18x Schuko"
+    ],
+    "Adapter-Box": [
+      "CEE 16A auf 4x Schuko", "CEE 32A auf 6x Schuko", "CEE 63A auf 12x Schuko"
+    ]
+  },
+  "HDMI": {
+    "Kabel": [
+      "HDMI Cable (15cm)", "HDMI Cable (30cm)", "HDMI Cable (60cm)",
+      "HDMI Cable (100cm)", "HDMI Cable (200cm)", "HDMI Cable (300cm)"
+    ],
+    "Adapter": [
+      "HDMI Right Angle Adapter", "Mini HDMI to HDMI Cable (30cm)",
+      "Mini HDMI to HDMI Cable (60cm)", "Micro HDMI to HDMI Cable (30cm)",
+      "Micro HDMI to HDMI Cable (60cm)", "HDMI to DVI Cable (100cm)",
+      "HDMI to DisplayPort Cable (100cm)"
+    ],
+    "Zubehör": [
+      "HDMI Splitter (1 in 2 out)", "HDMI Switch (3 in 1 out)"
+    ]
+  },
+  "SDI": {
+    "Kabel": [
+      "SDI Cable (50cm)", "SDI Cable (1m)", "SDI Cable (3m)", "SDI Cable (5m)",
+      "SDI Cable (10m)", "SDI Cable (25m)", "SDI Cable (50m)"
+    ],
+    "Adapter": [
+      "SDI Right Angle Adapter", "SDI to HDMI Converter"
+    ],
+    "Zubehör": [
+      "SDI Splitter (1 in 2 out)", "SDI Switcher (4 in 1 out)"
+    ]
+  },
+  "BNC": {
+    "Kabel": [
+      "BNC Cable (30cm)", "BNC Cable (60cm)", "BNC Cable (100cm)",
+      "BNC Cable (200cm)", "BNC Cable Reel (50m)", "BNC Cable Reel (100m)"
+    ],
+    "Adapter": [
+      "BNC Right Angle Adapter", "BNC T-Adapter", "BNC to RCA Adapter"
+    ],
+    "Zubehör": [
+      "BNC Terminator (75 Ohm)"
+    ]
+  },
+  "USB": {
+    "Kabel": [
+      "USB-C Cable (15cm)", "USB-C Cable (30cm)", "USB-C Cable (60cm)",
+      "USB-C Cable (100cm)", "USB-C to USB-A Cable (30cm)",
+      "USB-C to USB-A Cable (60cm)", "USB-C to USB-A Cable (100cm)",
+      "USB 3.0 Extension Cable (100cm)"
+    ],
+    "Adapter": [
+      "USB-C Right Angle Adapter", "USB-A to Micro USB Cable (30cm)",
+      "USB-A to Mini USB Cable (30cm)"
+    ],
+    "Zubehör": [
+      "USB Hub (4 ports)", "USB Hub (7 ports)"
+    ]
+  },
+  "Power": {
+    "Kabel": [
+      "D-Tap to Barrel Plug Cable (30cm)", "D-Tap to Barrel Plug Cable (60cm)",
+      "D-Tap Splitter Cable", "Lemo to D-Tap Cable (30cm)",
+      "Lemo to Barrel Plug Cable (30cm)", "AC Power Cable (1m)",
+      "AC Power Cable (3m)", "AC Power Cable (5m)", "DC Power Cable (2.1mm)",
+      "DC Power Cable (2.5mm)"
+    ],
+    "Zubehör": [
+      "Power Strip (5 outlets)", "Power Strip (10 outlets)",
+      "International Power Adapter"
+    ]
+  },
+  "Specialty": {
+    "Timecode": [
+      "Timecode Cable (BNC)", "Timecode Cable (5-pin LEMO)"
+    ],
+    "Genlock": [
+      "Genlock Cable"
+    ],
+    "Kamera-spezifisch": [
+      "RED KOMODO Expander Cable", "ARRI Alexa Mini Power Cable",
+      "ARRI Alexa LF Power Cable", "Sony Venice Power Cable",
+      "Blackmagic URSA Power Cable", "Teradek Power Cable",
+      "SmallHD Monitor Power Cable", "Atomos Monitor Power Cable"
+    ]
+  }
+}

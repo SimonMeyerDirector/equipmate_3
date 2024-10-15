@@ -1,0 +1,257 @@
+{
+  "Zeiss": {
+    "Supreme Prime Radiance": [
+      "21mm T1.5",
+      "25mm T1.5",
+      "29mm T1.5",
+      "35mm T1.5",
+      "50mm T1.5",
+      "85mm T1.5",
+      "100mm T1.5"
+    ],
+    "High Speed": [
+      "18mm T1.3",
+      "25mm T1.3",
+      "35mm T1.3",
+      "50mm T1.3",
+      "85mm T1.3"
+    ],
+    "Standard Speed": [
+      "14mm T2.1",
+      "16mm T2.1",
+      "20mm T2.1",
+      "24mm T2.1",
+      "28mm T2.1",
+      "32mm T2.1",
+      "40mm T2.1",
+      "50mm T2.1",
+      "85mm T2.1",
+      "100mm T2.1",
+      "135mm T2.1",
+      "180mm T3.0"
+    ],
+    "Ultra Prime": [
+      "16mm T1.9",
+      "20mm T1.9",
+      "24mm T1.9",
+      "32mm T1.9",
+      "40mm T1.9",
+      "50mm T1.9",
+      "65mm T1.9",
+      "85mm T1.9",
+      "100mm T1.9"
+    ],
+    "Compact Prime CP.2": [
+      "15mm T2.8 Super Speed",
+      "18mm T3.6",
+      "21mm T2.9",
+      "25mm T2.1",
+      "28mm T2.1",
+      "35mm T1.5 Super Speed",
+      "50mm T1.5 Super Speed",
+      "50mm T2.1 Makro",
+      "85mm T1.5 Super Speed",
+      "85mm T2.1",
+      "100mm T2.1 Makro",
+      "135mm T2.1"
+    ],
+    "Compact Zoom CZ.2": [
+      "15-30mm T2.9",
+      "28-80mm T2.9",
+      "70-200mm T2.9"
+    ]
+  },
+  "Cooke": {
+    "S4": [
+      "14mm T2.0",
+      "18mm T2.0",
+      "25mm T2.0",
+      "32mm T2.0",
+      "50mm T2.0",
+      "75mm T2.0",
+      "100mm T2.0"
+    ],
+    "Panchro/i classic": [
+      "18mm T2.2",
+      "25mm T2.2",
+      "32mm T2.2",
+      "40mm T2.2",
+      "50mm T2.2",
+      "75mm T2.2",
+      "100mm T2.6"
+    ],
+    "Varotal": [
+      "20-100mm T3.1"
+    ],
+    "SP3": [
+      "25mm T2.4",
+      "32mm T2.4",
+      "50mm T2.4",
+      "75mm T2.4",
+      "100mm T2.4"
+    ]
+  },
+  "ARRI": {
+    "Alura": [
+      "18-80mm T2.6"
+    ],
+    "LWZ": [
+      "15.5-45mm T2.6",
+      "21-100mm T2.9-3.9"
+    ]
+  },
+  "Angenieux": {
+    "Optimo Style": [
+      "16-40mm T2.8",
+      "30-76mm T2.8"
+    ]
+  },
+  "Sigma": {
+    "Cine Zoom": [
+      "18-35mm T2.0",
+      "50-100mm T2.0"
+    ],
+    "FF High Speed Prime": [
+      "14mm T2.0",
+      "20mm T1.5",
+      "24mm T1.5",
+      "28mm T1.5",
+      "35mm T1.5",
+      "40mm T1.5",
+      "50mm T1.5",
+      "85mm T1.5",
+      "135mm T2.0"
+    ]
+  },
+  "Leica": {
+    "Summicron-C": [
+      "21mm T2.0",
+      "35mm T2.0",
+      "75mm T2.0"
+    ],
+    "Summilux-M 0.8": [
+      "21mm T1.4",
+      "24mm T1.4",
+      "35mm T1.4"
+    ],
+    "Noctilux-M 0.8": [
+      "50mm T0.95"
+    ],
+    "Summicron-M 0.8": [
+      "75mm T2.0",
+      "90mm T2.0"
+    ]
+  },
+  "Canon": {
+    "EF": [
+      "14mm T2.8 L II USM",
+      "24mm T1.4 L II",
+      "35mm T1.4 L II USM",
+      "50mm T1.2 L USM",
+      "85mm T1.2 L II",
+      "100mm T2.8 L IS USM Makro",
+      "135mm T2.0 L USM"
+    ],
+    "RF": [
+      "15-35mm T2.8 L IS USM",
+      "24-70mm T2.8 L IS USM",
+      "24-105mm T4.0 L IS USM",
+      "100mm T2.8 L IS USM"
+    ]
+  },
+  "Sony": {
+    "FE": [
+      "14mm T1.8 G Master",
+      "24mm T1.4 G Master",
+      "35mm T1.4 G Master",
+      "50mm T1.2 G Master",
+      "85mm T1.4 G Master"
+    ],
+    "FE Zoom": [
+      "12-24mm T2.8 G Master",
+      "12-24mm T4 G",
+      "16-35mm T2.8 G Master",
+      "16-35mm T4 G OSS",
+      "24-70mm T2.8 G Master II",
+      "24-70mm T2.8 G Master",
+      "24-70mm T4 G OSS",
+      "24-105mm T4 G OSS",
+      "24-240mm T3.5-6.3 OSS",
+      "28-60mm T4-5.6",
+      "28-70mm T3.5-5.6 OSS",
+      "28-135mm T4.0 G OSS",
+      "70-200mm T2.8 G Master",
+      "70-200mm T2.8 G Master II",
+      "70-200mm T4 G OSS",
+      "70-300mm T4.5-5.6 G OSS",
+      "100-400mm T4.5-5.6 G Master OSS",
+      "200-600mm T5.6-6.3 G OSS"
+    ],
+    "E (APS-C) Zoom": [
+      "10-18mm T4 OSS",
+      "16-50mm T3.5-5.6 OSS",
+      "16-55mm T2.8 G",
+      "16-70mm T4 ZA OSS",
+      "18-105mm T4 G OSS",
+      "18-110mm T4 G OSS",
+      "18-135mm T3.5-5.6 OSS",
+      "18-200mm T3.5-6.3 OSS",
+      "18-200mm T3.5-6.3 OSS LE",
+      "55-210mm T4.5-6.3 OSS",
+      "70-350mm T4.5-6.3 G OSS"
+    ]
+  },
+  "Tokina": {
+    "Cinema Vista Prime": [
+      "18mm T1.5",
+      "25mm T1.5",
+      "35mm T1.5",
+      "50mm T1.5",
+      "85mm T1.5",
+      "105mm T1.5"
+    ]
+  },
+  "Atlas": {
+    "Orion": [
+      "32mm T2.0",
+      "40mm T2.0",
+      "50mm T2.0",
+      "65mm T2.0",
+      "80mm T2.0",
+      "100mm T2.0"
+    ]
+  },
+  "Laowa": {
+    "Nanomorph": [
+      "27mm T2.8",
+      "35mm T2.4",
+      "50mm T2.4"
+    ],
+    "Probe": [
+      "24mm T14 2x Macro"
+    ],
+    "Ooom": [
+      "25-100mm T2.9"
+    ]
+  },
+  "DZOFILM": {
+    "Vespid Prime": [
+      "16mm T2.8",
+      "25mm T2.1",
+      "35mm T2.1",
+      "50mm T2.1",
+      "75mm T2.1",
+      "90mm T2.8 Macro",
+      "100mm T2.1",
+      "125mm T2.1"
+    ],
+    "Pictor Zoom": [
+      "20-55mm T2.8",
+      "50-125mm T2.8"
+    ],
+    "Catta Ace Zoom": [
+      "35-80mm T2.9",
+      "70-135mm T2.9"
+    ]
+  }
+}

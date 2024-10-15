@@ -1,0 +1,141 @@
+{
+    "abc Products": {
+      "Cranes": [
+        "120 9m",
+        "Speedy 9m",
+        "Speedy 6m",
+        "Traveller 6m",
+        "Traveller 4,5m"
+      ]
+    },
+    "MovieTech": {
+      "Cranes": [
+        "Magnum Crane",
+        "Master Crane",
+        "Compact Crane"
+      ]
+    },
+    "Panther": {
+      "Cranes": [
+        "Foxy Crane",
+        "Pixy Crane",
+        "Vario Jib"
+      ]
+    },
+    "Technocrane": {
+      "Cranes": [
+        "Technocrane 15",
+        "Technocrane 22",
+        "Technocrane 30",
+        "Technocrane 50"
+      ]
+    },
+    "SuperTechno": {
+      "Cranes": [
+        "SuperTechno 15",
+        "SuperTechno 22",
+        "SuperTechno 30",
+        "SuperTechno 50"
+      ]
+    },
+    "Jimmy Jib": {
+      "Cranes": [
+        "Triangle",
+        "Triangle Extreme"
+      ]
+    },
+    "Egripment": {
+      "Cranes": [
+        "Scanner Crane",
+        "Stargate Crane",
+        "Genesis Crane"
+      ]
+    },
+    "GFM": {
+      "Cranes": [
+        "Jib Arm",
+        "Mini Jib"
+      ]
+    },
+    "Porta-Jib": {
+      "Cranes": [
+        "Traveller Losmandy"
+      ]
+    },
+    "Slidekamera": {
+      "Cranes": [
+        "Road Jib Pro"
+      ]
+    },
+    "Kessler": {
+      "Cranes": [
+        "Pocket Jib",
+        "Pocket Jib Pro"
+      ]
+    },
+    "Proaim": {
+      "Cranes": [
+        "Fly Jib",
+        "Alphabet Jib"
+      ]
+    },
+    "JonyJib": {
+      "Cranes": [
+        "JonyJib2",
+        "JonyJib Pro"
+      ]
+    },
+    "Giraffe Crane": {
+      "Cranes": [
+        "Giraffe Crane"
+      ]
+    },
+    "Cammate": {
+      "Cranes": [
+        "Cammate"
+      ]
+    },
+    "Chapman": {
+      "Cranes": [
+        "PeeWee",
+        "Huskey"
+      ]
+    },
+    "Servicevision": {
+      "Cranes": [
+        "Scorpio",
+        "Scorpio 45"
+      ]
+    },
+    "Polecam": {
+      "Cranes": [
+        "Polecam"
+      ]
+    },
+    "Sachtler": {
+      "Cranes": [
+        "Studio Jib 100",
+        "Ace Jib"
+      ]
+    },
+    "Libec": {
+      "Cranes": [
+        "Swift JIB50"
+      ]
+    },
+    "VariZoom": {
+      "Cranes": [
+        "Solo Jib"
+      ]
+    },
+    "iFootage": {
+      "Cranes": [
+        "Mini Crane M1 III"
+      ]
+    },
+    "Zanus": {
+      "Cranes": [
+        "Jib 100"
+      ]
+    }
+  }

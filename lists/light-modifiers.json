@@ -1,0 +1,200 @@
+{
+  "": {
+    "Generic": [
+      "Moltonlatte 3m x 3m"
+    ]
+  },
+  "Aputure": {
+    "Softboxen": [
+      "Light Dome 150",
+      "Light Dome III",
+      "Light Dome II",
+      "Light Dome mini III",
+      "Light Dome mini II",
+      "Lantern 90",
+      "Lantern",
+      "Spacelight"
+    ],
+    "Fresnellinsen": [
+      "Fresnel 2X",
+      "Fresnel Mount"
+    ],
+    "Barndoors": [
+      "Barndoor for 120d/300d",
+      "Barndoor for 600 Series"
+    ],
+    "Spotlightmount": [
+      "Spotlightmount 19°",
+      "Spotlightmount 26°",
+      "Spotlightmount 36°",
+      "Gobo Set",
+      "Iris"
+  ]
+  },
+  "DOP Choice": {
+    "Softboxen": [
+      "Snapbag",
+      "Snapbag Octa 3",
+      "Snapbag Octa 5",
+      "Snapbag Octa 7"
+    ],
+    "Grids": [
+      "Snapgrid 40°",
+      "Snapgrid 50°"
+    ],
+    "Fresnellinsen": [
+      "SNAPBAG Softbox"
+    ],
+    "Eggcrates": [
+      "40° Grid",
+      "50° Grid"
+    ]
+  },
+  "Chimera": {
+    "Softboxen": [
+      "Quartz Plus M",
+      "Quartz Plus S",
+      "Video Pro XS",
+      "Pancake M",
+      "Pancake S"
+    ],
+    "Grids": [
+      "Grid M 40°",
+      "Grid M 60°",
+      "Grid S 40°",
+      "Grid S 60°"
+    ]
+  },
+  "Photoflex": {
+    "Softboxen": [
+      "Silver Dome L",
+      "Cine Dome Pro L",
+      "Softbox M",
+      "Softbox S",
+      "Softbox XS"
+    ]
+  },
+  "California Sunbounce": {
+    "Reflektoren": [
+      "Pro",
+      "Mini",
+      "Micro Mini",
+      "Sun-Swatter"
+    ]
+  },
+  "LIGHTBRIDGE": {
+    "Reflektoren": [
+      "Cine Reflector CRLS 100",
+      "Cine Reflector CRLS 50",
+      "Cine Reflector CRLS 25"
+    ]
+  },
+  "The Rag Place": {
+    "Reflektoren": [
+      "Ultrabounce",
+      "Artificial Silk",
+      "Griffolyn"
+    ],
+    "Diffusionsmaterial": [
+      "Light Grid Cloth",
+      "Full Grid Cloth",
+      "1/2 Grid Cloth",
+      "1/4 Grid Cloth",
+      "Full Silk",
+      "1/2 Silk",
+      "1/4 Silk",
+      "China Silk",
+      "Artificial Silk",
+      "Magic Cloth"
+    ],
+    "Scrims": [
+      "Single Scrim 12x12",
+      "Double Scrim 12x12",
+      "Single Scrim 8x8",
+      "Double Scrim 8x8"
+    ]
+  },
+  "Lee Filters": {
+    "Diffusionsmaterial": [
+      "216 White Diffusion",
+      "250 1/2 White Diffusion",
+      "251 1/4 White Diffusion",
+      "252 1/8 White Diffusion"
+    ],
+    "Farbfolien": [
+      "Various Color Correction Filters",
+      "Various Color Effect Filters"
+    ]
+  },
+  "Rosco": {
+    "Diffusionsmaterial": [
+      "E275 1/4 Soft Frost",
+      "E256 1/2 Soft Frost",
+      "E255 Hollywood Frost",
+      "E420 Light Opal Frost"
+    ],
+    "Farbfolien": [
+      "E-Colour+ Series",
+      "Cinegel Series"
+    ]
+  },
+  "Matthews": {
+    "Flags und Cutter": [
+      "Floppy Cutter 48x48\"",
+      "Flag 24x36\"",
+      "Flag 18x24\"",
+      "Flag 24x48\"",
+      "Flag 48x48\"",
+      "Cutter 12x18\"",
+      "Cutter 18x24\""
+    ],
+    "Scrims": [
+      "Single Scrim 24x36\"",
+      "Double Scrim 24x36\"",
+      "Single Scrim 18x24\"",
+      "Double Scrim 18x24\""
+    ],
+    "Butterfly Frames": [
+      "12x12 Butterfly Frame",
+      "8x8 Butterfly Frame",
+      "6x6 Butterfly Frame"
+    ],
+    "Diffusionsrahmen": [
+      "4x4 Frame",
+      "2x3 Frame"
+    ]
+  },
+  "Modern Studio Equipment": {
+    "Flags und Cutter": [
+      "Flag 24x36\"",
+      "Flag 18x24\"",
+      "Flag 24x48\"",
+      "Flag 48x48\""
+    ]
+  },
+  "Avenger": {
+    "Butterfly Frames": [
+      "12x12 Butterfly Frame",
+      "8x8 Butterfly Frame",
+      "6x6 Butterfly Frame"
+    ],
+    "Diffusionsrahmen": [
+      "6x6 Frame",
+      "4x4 Frame"
+    ]
+  },
+  "ARRI": {
+    "Barndoors": [
+      "4-Leaf Barndoor Set"
+    ],
+    "Projektor-Zubehör": [
+      "Projection Lens Set"
+    ]
+  },
+  "Dedolight": {
+    "Projektor-Zubehör": [
+      "Projection Attachment",
+      "Gobo Holder"
+    ]
+  }
+}

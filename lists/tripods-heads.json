@@ -1,0 +1,111 @@
+{
+    "O'Connor": {
+      "2000 Series": [
+        "2065",
+        "2560",
+        "2575D"
+      ],
+      "1000 Series": [
+        "1030D",
+        "1030DS",
+        "Ultimate 1040"
+      ],
+      "100 Series": [
+        "120EX"
+      ]
+    },
+    "Sachtler": {
+      "Video": [
+        "Video 60",
+        "Video 25",
+        "Video 20 S",
+        "Video 20 III",
+        "Video 20",
+        "Video 20 II",
+        "Video 18 III",
+        "Video 18",
+        "Video 15 SB",
+        "Video 14 II"
+      ],
+      "Studio": [
+        "Studio II"
+      ],
+      "DV": [
+        "DV 12",
+        "DV 8/100",
+        "DV6",
+        "DV2"
+      ],
+      "FSB": [
+        "FSB 8",
+        "FSB 4"
+      ],
+      "Ace": [
+        "ACE M"
+      ],
+      "Other": [
+        "Caddy",
+        "Panorama"
+      ],
+      "Flowtech": [
+        "Tripod flowtech® 75",
+        "Tripod flowtech® 75 aktiv GS",
+        "Tripod flowtech® 75 aktiv MS",
+        "Tripod flowtech® 100 GS",
+        "Tripod flowtech® 100 MS",
+        "Tripod flowtech® 100 + Rubberfeet"
+      ]
+    },
+    "Manfrotto": {
+      "500 Series": [
+        "501"
+      ],
+      "Monopods": [
+        "MVM500A"
+      ]
+    },
+    "Tilta": {
+      "Car Mounts": [
+        "Hydra Alien"
+      ]
+    },
+    "Egripment": {
+      "Car Mounts": [
+        "150mm Car Mount",
+        "150mm Car Door Mount"
+      ]
+    },
+    "Panther": {
+      "Car Mounts": [
+        "Multimount 100mm"
+      ]
+    },
+    "Ronford": {
+      "Car Mounts": [
+        "150mm Car Mount"
+      ],
+      "Heads": [
+        "F7 Mk III"
+      ]
+    },
+    "Movietech": {
+      "Accessories": [
+        "Rocker Plate"
+      ]
+    },
+    "Cintec": {
+      "Heads": [
+        "2-Axis Head 100mm"
+      ]
+    },
+    "Heiler": {
+      "Tripod Legs": [
+        "Steel short"
+      ]
+    },
+    "Schulz": {
+      "Tripod Legs": [
+        "Aluminum medium heavy duty"
+      ]
+    }
+  }

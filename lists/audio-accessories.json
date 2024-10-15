@@ -1,0 +1,106 @@
+{
+    "Microphones": {
+    "Shotgun": [
+    "Sennheiser MKH 416",
+    "Sennheiser MKH 8060",
+    "Rode NTG5",
+    "Schoeps CMIT 5"
+    ],
+    "Lavalier": [
+    "Sanken COS-11D",
+    "DPA 4060",
+    "Countryman B6",
+    "Sennheiser MKE 2"
+    ],
+    "Handheld": [
+    "Shure SM58",
+    "Sennheiser e935",
+    "Shure Beta 87A",
+    "AKG D5"
+    ]
+    },
+    "Boom Poles": {
+    "Standard": [
+    "K-Tek KE-110CC",
+    "Ambient QP-5100",
+    "Rode Boom Pole Pro"
+    ],
+    "Carbon Fiber": [
+    "K-Tek KE-110CCR",
+    "Ambient QXS-5100",
+    "Gitzo GB3560"
+    ]
+    },
+    "Shock Mounts": {
+    "Pistol Grip": [
+    "Rycote InVision Video",
+    "Rode PG2-R Pro",
+    "K-Tek KSGP"
+    ],
+    "Suspension": [
+    "Rycote Super-Softie",
+    "Rode Blimp",
+    "Cinela OSIX"
+    ]
+    },
+    "Windscreens": {
+    "Softie": [
+    "Rycote Softie",
+    "Rode WS6",
+    "K-Tek KFWS"
+    ],
+    "Blimp": [
+    "Rycote Cyclone",
+    "Rode Blimp MkII",
+    "Aston Swift Shield"
+    ]
+    },
+    "Cables": {
+    "XLR": [
+    "Mogami Gold Studio",
+    "Canare L-4E6S",
+    "Gotham GAC-4/1"
+    ],
+    "Mini XLR": [
+    "Rode MiCon Cable",
+    "Lectrosonics MC50",
+    "PSC FPSC0006"
+    ]
+    },
+    "Headphones": {
+    "Closed-back": [
+    "Sony MDR-7506",
+    "Sennheiser HD 280 Pro",
+    "Beyerdynamic DT 770 Pro"
+    ],
+    "Open-back": [
+    "Sennheiser HD 600",
+    "AKG K702",
+    "Beyerdynamic DT 990 Pro"
+    ]
+    },
+    "Adapters": {
+    "XLR": [
+    "Neutrik NA3MF",
+    "Switchcraft 389",
+    "Amphenol AX3M-FX"
+    ],
+    "1/4 Inch": [
+    "Neutrik NP3X",
+    "Switchcraft 280",
+    "Hosa GPP-290"
+    ]
+    },
+    "Bags and Cases": {
+    "Mixer Bags": [
+    "K-Tek KSTG-100",
+    "Porta Brace MX-Bags",
+    "Petrol PS602"
+    ],
+    "Microphone Cases": [
+    "Pelican 1510",
+    "SKB 3i-2011-7BP",
+    "Nanuk 935"
+    ]
+    }
+    }

@@ -1,0 +1,23 @@
+{
+  "ARRI": {
+    "LMB": ["LMB-3", "LMB-5", "LMB-25"],
+    "MB": ["MB-14", "MB-20", "MB-4A"]
+  },
+  "Bright Tangerine": {
+    "Misfit": ["Misfit Clash 138", "Misfit Atom Pola+", "Misfit Kick", "Misfit Atom"]
+  },
+  "Chrosziel": {
+    "MB": ["MB 450-02", "MB 450-R2", "MB 456", "MB 805-02"]
+  },
+  "Tilta": {
+    "MB": ["MB -T12", "MB -T15"],
+    "Mirage": ["Mirage Matte Box + VND", "Mirage Matte Box"],
+    "Mini": ["Mini Matteboxe"],
+    "Carbonfiber": ["Carbon Fiber Mattebox 4x5.65 (Swing-Away)","Carbon Fiber Mattebox 4x5.65 (Clamp-On)","Carbon Fiber Mattebox 4x4 (Swing-Away)","Carbon Fiber Mattebox 4x4(Clamp-On)"]
+  },
+  "Smallrig": {
+    "Mini": ["Mini Mattebox", "Mini Mattebox Light", "Mini Mattebox Pro"],
+    "Mattebox": ["VND Mattebox"]
+ 
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "Motorola": {
+    "Walkie Talkie": [
+      "CP040",
+      "DP2400e"
+    ]
+  },
+  "Hollyland": {
+    "Intercom": [
+      "SYSCOM 1000T",
+      "Solidcom C1 1x Master 5x Remote",
+      "Solidcom C1 Pro 8S",
+      "Solidcom C1 Pro 3S"
+    ]
+  },
+  "Eartec": {
+    "Intercom": [
+      "UltraLite HD UL5S",
+      "UltraLite HD UL6S"
+    ]
+  },
+  "Teradek": {
+    "Intercom": [
+      "Bolt 4K MAX"
+    ]
+  },
+  "Clear-Com": {
+    "Intercom": [
+      "FreeSpeak II",
+      "HelixNet"
+    ]
+  },
+  "RTS": {
+    "Intercom": [
+      "BTR-800",
+      "BTR-240"
+    ]
+  },
+  "Riedel": {
+    "Intercom": [
+      "Bolero",
+      "Artist"
+    ]
+  },
+  "Unity Intercom": {
+    "Intercom": [
+      "Unity Connect"
+    ]
+  },
+  "Green-GO": {
+    "Intercom": [
+      "Digital Intercom System"
+    ]
+  },
+  "Altair": {
+    "Walkie Talkie": [
+      "WP-300"
+    ]
+  },
+  "Kenwood": {
+    "Walkie Talkie": [
+      "TK-3701D",
+      "TK-3401D"
+    ]
+  },
+  "Hytera": {
+    "Walkie Talkie": [
+      "PD505",
+      "PD665"
+    ]
+  },
+  "Icom": {
+    "Walkie Talkie": [
+      "IC-F29SR",
+      "IC-F1000"
+    ]
+  },
+  "Vertex Standard": {
+    "Walkie Talkie": [
+      "VX-261"
+    ]
+  },
+  "Tait": {
+    "Walkie Talkie": [
+      "TP3300"
+    ]
+  },
+  "Sepura": {
+    "Walkie Talkie": [
+      "SC20"
+    ]
+  },
+  "Look Solutions": {
+    "Hazers": [
+      "Tiny Hazer",
+      "Unique 2.1",
+      "Viper NT",
+      "Viper S",
+      "Cryo-Fog"
+    ]
+  },
+  "Martin": {
+    "Hazers": [
+      "JEM Compact Hazer Pro",
+      "JEM K1 Hazer",
+      "Jem Ready 365",
+      "JEM ZR25",
+      "JEM ZR35"
+    ]
+  },
+  "MDG": {
+    "Hazers": [
+      "Atmosphere",
+      "Me1",
+      "Me2",
+      "theONE",
+      "ATMe"
+    ]
+  },
+  "Antari": {
+    "Hazers": [
+      "HZ-350",
+      "HZ-500",
+      "HZ-1000",
+      "HZ-3000",
+      "Z-350 Fazer"
+    ]
+  },
+  "Reel EFX": {
+    "Hazers": [
+      "DF-50 Diffusion Hazer",
+      "DF-50 Cryo",
+      "DF-1 SE"
+    ]
+  },
+  "Le Maitre": {
+    "Hazers": [
+      "G300",
+      "MVS Hazer",
+      "Neutron XS Hazer",
+      "PureHaze"
+    ]
+  },
+  "Chauvet DJ": {
+    "Hazers": [
+      "Hurricane Haze 1DX",
+      "Hurricane Haze 2D",
+      "Hurricane Haze 4D"
+    ]
+  },
+  "Smoke Factory": {
+    "Hazers": [
+      "Tour Hazer II",
+      "Data II",
+      "Captain D"
+    ]
+  },
+  "Base": {
+    "Hazers": [
+      "Hazer Pro",
+      "Touring Hazer"
+    ]
+  },
+  "": {
+    "": [
+      "Easy Rig Vario 5",
+      "Easy Rig Vario 5 Strong",
+      "Easy Rig Cinema 3",
+      "Easy Rig Cinema Flex",
+      "Easy Rig 2.5",
+      "Easy Rig 3 Cinema",
+      "Easy Rig Minimax",
+      "Easy Rig Gimbal Rig",
+      "Easy Rig Gimbal Flex",
+      "Easy Rig Gravity",
+      "Easy Rig Gravity Vest",
+      "Easy Rig Seahorse",
+      "Easy Rig Turtle X",
+      "Easy Rig Stabil G2"
+    ]},
+    "": {
+    "Other": [
+      "Sandbag",
+      "Sandsack"
+    ]},
+    "Lee Filters": {
+      "Color Gels": [
+        "CTB (Color Temperature Blue)",
+        "Full CTB (#201)",
+        "Half CTB (#202)",
+        "Quarter CTB (#203)",
+        "Eighth CTB (#218)",
+        "CTO (Color Temperature Orange)",
+        "Full CTO (#204)",
+        "Half CTO (#205)",
+        "Quarter CTO (#206)",
+        "Eighth CTO (#223)",
+        "Plus Green (#Plus Green)",
+        "Minus Green (#Minus Green)",
+        "ND (Neutral Density)",
+        "0.3 ND (#209)",
+        "0.6 ND (#210)",
+        "0.9 ND (#211)",
+        "Diffusion",
+        "216 White Diffusion",
+        "250 Half White Diffusion",
+        "251 Quarter White Diffusion",
+        "Color Effects",
+        "Flame Red (#027)",
+        "Bright Red (#026)",
+        "Medium Red (#027)",
+        "Dark Salmon (#013)",
+        "Deep Amber (#104)",
+        "Straw (#103)",
+        "Canary Yellow (#101)",
+        "Yellow (#100)",
+        "Dark Yellow Green (#090)",
+        "Lime Green (#088)",
+        "Primary Green (#139)",
+        "Moss Green (#089)",
+        "Peacock Blue (#115)",
+        "Steel Blue (#117)",
+        "Special Steel Blue (#354)",
+        "Alice Blue (#197)",
+        "Light Lavender (#052)",
+        "Lavender (#058)",
+        "Deep Lavender (#180)",
+        "Rose Purple (#048)",
+        "Magenta (#113)",
+        "Pink (#035)",
+        "No Color Blue (#201)",
+        "No Color Straw (#009)",
+        "Cosmetic Burgundy (#793)",
+        "Cosmetic Silver Rose (#798)",
+        "Cosmetic Pale Gold (#799)"
+      ]
+    },
+    "Rosco": {
+      "Color Gels": [
+        "CTB (Color Temperature Blue)",
+        "Full CTB (#3202)",
+        "Half CTB (#3204)",
+        "Quarter CTB (#3206)",
+        "Eighth CTB (#3208)",
+        "CTO (Color Temperature Orange)",
+        "Full CTO (#3407)",
+        "Half CTO (#3408)",
+        "Quarter CTO (#3409)",
+        "Eighth CTO (#3410)",
+        "Plus Green (#3304)",
+        "Minus Green (#3315)",
+        "ND (Neutral Density)",
+        "0.3 ND (#3402)",
+        "0.6 ND (#3403)",
+        "0.9 ND (#3404)",
+        "Diffusion",
+        "Light Tough Frost (#102)",
+        "Tough Frost (#113)",
+        "Tough White Diffusion (#116)",
+        "Color Effects",
+        "Fire (#19)",
+        "Sunset Red (#25)",
+        "Light Red (#27)",
+        "Medium Red (#27)",
+        "Dark Bastard Amber (#24)",
+        "Straw (#15)",
+        "Canary (#312)",
+        "Pale Yellow (#08)",
+        "Moss Green (#89)",
+        "Lime Green (#88)",
+        "Primary Green (#91)",
+        "Dark Green (#90)",
+        "Peacock Blue (#69)",
+        "Sky Blue (#68)",
+        "Special Steel Blue (#68)",
+        "Alice Blue (#61)",
+        "Light Lavender (#52)",
+        "Lavender (#58)",
+        "Deep Lavender (#57)",
+        "Rose Purple (#48)",
+        "Magenta (#46)",
+        "Light Pink (#33)",
+        "No Color Blue (#3202)",
+        "No Color Straw (#3409)",
+        "Cosmetic Burgundy (#4960)",
+        "Cosmetic Silver Rose (#4830)",
+        "Cosmetic Gold Amber (#4630)"
+      ]
+    }
+}

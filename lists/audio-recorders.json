@@ -1,0 +1,53 @@
+{
+    "Sound Devices": {
+    "8-Series": [
+    "833",
+    "888"
+    ],
+    "6-Series": [
+    "688",
+    "633",
+    "664"
+    ],
+    "MixPre Series": [
+    "MixPre-10 II",
+    "MixPre-6 II",
+    "MixPre-3 II"
+    ]
+    },
+    "Zoom": {
+    "F Series": [
+    "F8n Pro",
+    "F6",
+    "F4"
+    ],
+    "H Series": [
+    "H8",
+    "H6",
+    "H5",
+    "H4n Pro"
+    ]
+    },
+    "Tascam": {
+    "DR Series": [
+    "DR-100mkIII",
+    "DR-40X",
+    "DR-05X"
+    ],
+    "Portacapture Series": [
+    "X8"
+    ]
+    },
+    "Sony": {
+    "PCM Series": [
+    "PCM-D10",
+    "PCM-A10"
+    ]
+    },
+    "Marantz": {
+    "Professional": [
+    "PMD-661 MKIII",
+    "PMD-561"
+    ]
+    }
+    }
